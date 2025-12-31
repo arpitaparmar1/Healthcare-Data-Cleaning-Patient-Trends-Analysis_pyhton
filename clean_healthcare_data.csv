@@ -1,0 +1,1001 @@
+Patient Name,Age,Gender,Condition,Medication,Visit Date,Cholesterol,Email,Phone Number,Systolic_BP,Diastolic_BP
+David Lee,25.0,Other,Heart Disease,Metformin,2020-01-15,200.0,name@hospital.org,555-555-5555,140.0,90.0
+Emily Davis,40.0,Male,Diabetes,None,2018-04-05,200.0,no email,no number,120.0,80.0
+Laura Martinez,35.0,Other,Asthma,Metformin,2019-12-01,160.0,contact@domain.com,no number,110.0,70.0
+Michael Wilson,40.0,Male,Diabetes,Albuterol,2020-01-15,,name@hospital.org,555-555-5555,110.0,70.0
+David Lee,40.0,Female,Asthma,None,2020-02-20,180.0,no email,no number,110.0,70.0
+Mary Clark,40.0,Male,Hypertension,Metformin,2019-03-25,180.0,no email,no number,140.0,90.0
+Robert Brown,40.0,Male,Hypertension,Lisinopril,2020-02-20,,name@hospital.org,no number,120.0,80.0
+David Lee,60.0,Other,unknow,None,2020-02-20,,name@hospital.org,no number,,
+Laura Martinez,60.0,Other,Heart Disease,None,2020-01-15,180.0,name@hospital.org,no number,140.0,90.0
+Michael Wilson,40.0,Female,unknow,Albuterol,2020-02-20,220.0,patient@example.com,555-555-5555,140.0,90.0
+Emily Davis,25.0,Male,Asthma,Atorvastatin,2018-04-05,200.0,no email,no number,120.0,80.0
+Laura Martinez,40.0,Male,unknow,Atorvastatin,2020-02-20,200.0,name@hospital.org,no number,130.0,85.0
+Laura Martinez,40.0,Male,Diabetes,Albuterol,2019-03-25,180.0,no email,123-456-7890,140.0,90.0
+Robert Brown,25.0,Female,Asthma,Albuterol,2019-03-25,,name@hospital.org,no number,130.0,85.0
+Sarah Johnson,70.0,Female,Hypertension,Albuterol,2019-12-01,220.0,no email,no number,130.0,85.0
+Michael Wilson,35.0,Female,Heart Disease,Atorvastatin,2019-03-25,180.0,no email,123-456-7890,110.0,70.0
+Jane Smith,60.0,Female,Asthma,Albuterol,2020-02-20,200.0,no email,no number,120.0,80.0
+Laura Martinez,70.0,Female,Asthma,Metformin,2019-03-25,160.0,contact@domain.com,098-765-4321,130.0,85.0
+Sarah Johnson,25.0,Other,Diabetes,None,2020-01-15,,name@hospital.org,098-765-4321,120.0,80.0
+Jane Smith,70.0,Male,Heart Disease,None,2019-03-25,160.0,contact@domain.com,no number,110.0,70.0
+Michael Wilson,35.0,Male,Hypertension,Lisinopril,2018-04-05,180.0,no email,no number,120.0,80.0
+John Doe,25.0,Male,Asthma,Lisinopril,2020-01-15,200.0,contact@domain.com,098-765-4321,140.0,90.0
+Mary Clark,70.0,Male,Asthma,None,2019-12-01,220.0,no email,555-555-5555,130.0,85.0
+Sarah Johnson,60.0,Male,Diabetes,Metformin,2018-04-05,160.0,no email,555-555-5555,120.0,80.0
+James Taylor,60.0,Male,unknow,Atorvastatin,2020-02-20,220.0,no email,123-456-7890,,
+John Doe,40.0,Male,Hypertension,Atorvastatin,2020-02-20,200.0,contact@domain.com,no number,120.0,80.0
+Mary Clark,70.0,Male,Heart Disease,Metformin,2020-02-20,160.0,name@hospital.org,no number,130.0,85.0
+Robert Brown,40.0,Other,Asthma,Atorvastatin,2018-04-05,220.0,contact@domain.com,098-765-4321,110.0,70.0
+David Lee,70.0,Male,Asthma,Albuterol,2018-04-05,220.0,name@hospital.org,no number,110.0,70.0
+Emily Davis,25.0,Other,Hypertension,None,2018-04-05,160.0,name@hospital.org,no number,130.0,85.0
+James Taylor,25.0,Female,unknow,None,2020-01-15,200.0,no email,098-765-4321,140.0,90.0
+Robert Brown,70.0,Male,Asthma,Metformin,2020-01-15,220.0,contact@domain.com,098-765-4321,140.0,90.0
+Michael Wilson,35.0,Female,Hypertension,Atorvastatin,2020-02-20,180.0,name@hospital.org,no number,110.0,70.0
+Robert Brown,60.0,Female,Diabetes,Lisinopril,2019-03-25,160.0,no email,098-765-4321,110.0,70.0
+David Lee,25.0,Female,unknow,Lisinopril,2020-02-20,,name@hospital.org,123-456-7890,130.0,85.0
+Michael Wilson,60.0,Other,Heart Disease,Atorvastatin,2019-12-01,,no email,123-456-7890,140.0,90.0
+James Taylor,25.0,Female,Asthma,Lisinopril,2020-01-15,200.0,contact@domain.com,no number,110.0,70.0
+David Lee,40.0,Female,Hypertension,Metformin,2018-04-05,180.0,contact@domain.com,no number,140.0,90.0
+Jane Smith,40.0,Female,Diabetes,Metformin,2020-01-15,220.0,contact@domain.com,123-456-7890,110.0,70.0
+Emily Davis,25.0,Male,Heart Disease,Atorvastatin,2018-04-05,,name@hospital.org,123-456-7890,120.0,80.0
+James Taylor,60.0,Male,Hypertension,Lisinopril,2019-12-01,200.0,patient@example.com,no number,,
+Jane Smith,40.0,Other,Hypertension,Metformin,2019-12-01,180.0,name@hospital.org,555-555-5555,120.0,80.0
+Mary Clark,25.0,Other,Heart Disease,Metformin,2020-01-15,180.0,name@hospital.org,098-765-4321,110.0,70.0
+James Taylor,35.0,Male,Diabetes,Albuterol,2018-04-05,200.0,no email,123-456-7890,,
+Mary Clark,40.0,Other,Diabetes,Albuterol,2019-12-01,200.0,no email,555-555-5555,,
+Michael Wilson,25.0,Male,unknow,Metformin,2020-02-20,220.0,name@hospital.org,no number,110.0,70.0
+Jane Smith,40.0,Female,Asthma,Atorvastatin,2020-02-20,200.0,no email,555-555-5555,110.0,70.0
+Emily Davis,35.0,Female,Heart Disease,None,2018-04-05,220.0,no email,no number,140.0,90.0
+David Lee,70.0,Other,Heart Disease,None,2020-01-15,220.0,name@hospital.org,no number,110.0,70.0
+Laura Martinez,40.0,Male,Heart Disease,Metformin,2019-12-01,160.0,patient@example.com,no number,130.0,85.0
+Robert Brown,40.0,Male,Diabetes,Metformin,2020-01-15,180.0,no email,555-555-5555,110.0,70.0
+John Doe,35.0,Other,Asthma,Metformin,2020-02-20,180.0,contact@domain.com,no number,130.0,85.0
+Emily Davis,40.0,Male,unknow,Atorvastatin,2019-12-01,180.0,name@hospital.org,123-456-7890,110.0,70.0
+Jane Smith,35.0,Female,Hypertension,Albuterol,2020-01-15,160.0,name@hospital.org,555-555-5555,140.0,90.0
+Laura Martinez,25.0,Other,Hypertension,Metformin,2019-03-25,220.0,no email,123-456-7890,130.0,85.0
+Emily Davis,35.0,Other,Heart Disease,Metformin,2018-04-05,220.0,no email,555-555-5555,120.0,80.0
+Jane Smith,35.0,Male,Asthma,Lisinopril,2018-04-05,200.0,no email,123-456-7890,130.0,85.0
+Sarah Johnson,40.0,Other,Diabetes,Atorvastatin,2019-03-25,160.0,no email,555-555-5555,140.0,90.0
+Sarah Johnson,35.0,Male,Asthma,Metformin,2020-02-20,200.0,contact@domain.com,no number,130.0,85.0
+Mary Clark,35.0,Male,Asthma,Lisinopril,2019-12-01,160.0,no email,098-765-4321,110.0,70.0
+Emily Davis,70.0,Male,Diabetes,None,2018-04-05,200.0,no email,no number,110.0,70.0
+Sarah Johnson,25.0,Male,Heart Disease,Metformin,2019-03-25,,no email,123-456-7890,140.0,90.0
+Jane Smith,40.0,Male,Asthma,Metformin,2019-03-25,180.0,no email,no number,,
+Mary Clark,70.0,Other,Hypertension,Lisinopril,2020-02-20,180.0,patient@example.com,no number,110.0,70.0
+Jane Smith,60.0,Female,Diabetes,Atorvastatin,2020-02-20,220.0,patient@example.com,098-765-4321,120.0,80.0
+Mary Clark,25.0,Female,unknow,Metformin,2020-01-15,,name@hospital.org,123-456-7890,140.0,90.0
+Emily Davis,25.0,Other,Heart Disease,None,2018-04-05,180.0,name@hospital.org,no number,130.0,85.0
+Laura Martinez,60.0,Other,Diabetes,Metformin,2020-01-15,220.0,no email,555-555-5555,130.0,85.0
+David Lee,35.0,Female,unknow,None,2019-03-25,,no email,no number,120.0,80.0
+James Taylor,70.0,Female,unknow,Albuterol,2019-12-01,180.0,contact@domain.com,123-456-7890,110.0,70.0
+Laura Martinez,40.0,Female,Asthma,Albuterol,2019-12-01,200.0,contact@domain.com,no number,140.0,90.0
+Michael Wilson,40.0,Female,Asthma,None,2020-02-20,160.0,patient@example.com,123-456-7890,120.0,80.0
+Jane Smith,40.0,Female,Asthma,Atorvastatin,2019-12-01,,name@hospital.org,555-555-5555,110.0,70.0
+Michael Wilson,60.0,Male,Diabetes,Metformin,2019-12-01,220.0,patient@example.com,098-765-4321,140.0,90.0
+Laura Martinez,25.0,Other,Diabetes,Metformin,2019-12-01,,patient@example.com,no number,130.0,85.0
+Mary Clark,25.0,Male,Heart Disease,Albuterol,2019-03-25,220.0,name@hospital.org,123-456-7890,140.0,90.0
+James Taylor,40.0,Female,Asthma,None,2019-12-01,,contact@domain.com,123-456-7890,,
+James Taylor,25.0,Female,unknow,Metformin,2019-12-01,220.0,name@hospital.org,123-456-7890,140.0,90.0
+John Doe,25.0,Female,Hypertension,Metformin,2019-12-01,180.0,no email,098-765-4321,,
+James Taylor,40.0,Male,Heart Disease,Atorvastatin,2020-01-15,200.0,no email,123-456-7890,140.0,90.0
+David Lee,70.0,Male,Diabetes,Lisinopril,2019-03-25,180.0,no email,no number,,
+James Taylor,70.0,Female,Heart Disease,Albuterol,2020-02-20,200.0,no email,no number,130.0,85.0
+Laura Martinez,40.0,Male,Heart Disease,Albuterol,2020-01-15,180.0,contact@domain.com,123-456-7890,110.0,70.0
+John Doe,60.0,Male,Heart Disease,Lisinopril,2018-04-05,180.0,contact@domain.com,no number,,
+Laura Martinez,25.0,Female,Heart Disease,Metformin,2019-03-25,,no email,no number,,
+Laura Martinez,25.0,Male,Hypertension,Atorvastatin,2019-03-25,160.0,patient@example.com,no number,130.0,85.0
+Robert Brown,60.0,Other,Asthma,Atorvastatin,2018-04-05,220.0,no email,123-456-7890,,
+John Doe,70.0,Other,unknow,Albuterol,2018-04-05,220.0,no email,555-555-5555,120.0,80.0
+Laura Martinez,35.0,Other,Heart Disease,Atorvastatin,2018-04-05,220.0,patient@example.com,no number,130.0,85.0
+Robert Brown,35.0,Other,Heart Disease,Lisinopril,2020-02-20,200.0,name@hospital.org,098-765-4321,120.0,80.0
+Robert Brown,35.0,Female,Heart Disease,Metformin,2019-12-01,220.0,name@hospital.org,123-456-7890,130.0,85.0
+John Doe,70.0,Female,Asthma,Lisinopril,2019-03-25,220.0,contact@domain.com,098-765-4321,,
+Michael Wilson,70.0,Female,Diabetes,None,2019-12-01,,no email,555-555-5555,120.0,80.0
+Mary Clark,60.0,Other,Diabetes,Albuterol,2019-12-01,180.0,contact@domain.com,098-765-4321,,
+David Lee,25.0,Other,Hypertension,Atorvastatin,2018-04-05,220.0,name@hospital.org,123-456-7890,130.0,85.0
+Mary Clark,60.0,Male,Diabetes,None,2020-02-20,160.0,patient@example.com,123-456-7890,,
+James Taylor,60.0,Male,Heart Disease,Atorvastatin,2020-01-15,220.0,contact@domain.com,555-555-5555,120.0,80.0
+David Lee,70.0,Other,Heart Disease,Metformin,2020-02-20,200.0,no email,123-456-7890,120.0,80.0
+James Taylor,35.0,Other,Heart Disease,Metformin,2019-12-01,200.0,no email,555-555-5555,,
+Laura Martinez,40.0,Other,Hypertension,Metformin,2020-02-20,200.0,patient@example.com,555-555-5555,140.0,90.0
+Jane Smith,25.0,Other,Heart Disease,Atorvastatin,2018-04-05,220.0,name@hospital.org,123-456-7890,130.0,85.0
+John Doe,70.0,Male,Diabetes,None,2020-01-15,,no email,no number,130.0,85.0
+David Lee,35.0,Other,Asthma,Metformin,2018-04-05,160.0,no email,555-555-5555,,
+David Lee,40.0,Male,Asthma,None,2020-01-15,220.0,no email,123-456-7890,140.0,90.0
+Laura Martinez,40.0,Other,unknow,Atorvastatin,2019-12-01,,contact@domain.com,no number,120.0,80.0
+Michael Wilson,70.0,Other,Diabetes,None,2020-01-15,,name@hospital.org,555-555-5555,110.0,70.0
+Robert Brown,40.0,Other,Heart Disease,Atorvastatin,2020-01-15,220.0,contact@domain.com,no number,110.0,70.0
+Laura Martinez,25.0,Male,Asthma,Atorvastatin,2020-01-15,220.0,name@hospital.org,no number,,
+Sarah Johnson,40.0,Male,Diabetes,Albuterol,2020-02-20,,no email,no number,140.0,90.0
+Robert Brown,70.0,Female,Asthma,Atorvastatin,2020-02-20,,no email,no number,140.0,90.0
+John Doe,70.0,Other,Heart Disease,Atorvastatin,2019-12-01,,contact@domain.com,555-555-5555,130.0,85.0
+Robert Brown,35.0,Female,Asthma,Lisinopril,2020-01-15,220.0,no email,123-456-7890,120.0,80.0
+Michael Wilson,40.0,Female,unknow,Metformin,2019-03-25,,name@hospital.org,098-765-4321,140.0,90.0
+Robert Brown,25.0,Male,unknow,Albuterol,2019-12-01,200.0,contact@domain.com,123-456-7890,110.0,70.0
+John Doe,60.0,Male,Asthma,Albuterol,2020-01-15,220.0,contact@domain.com,098-765-4321,120.0,80.0
+Michael Wilson,35.0,Female,Diabetes,Albuterol,2020-01-15,200.0,no email,098-765-4321,120.0,80.0
+Mary Clark,40.0,Other,Diabetes,Lisinopril,2020-02-20,180.0,contact@domain.com,555-555-5555,,
+David Lee,40.0,Male,Diabetes,Atorvastatin,2019-12-01,220.0,no email,no number,140.0,90.0
+David Lee,35.0,Other,Asthma,Metformin,2020-01-15,180.0,no email,123-456-7890,,
+James Taylor,70.0,Other,Diabetes,None,2020-01-15,,no email,no number,140.0,90.0
+Mary Clark,40.0,Female,Heart Disease,Atorvastatin,2019-12-01,,name@hospital.org,no number,130.0,85.0
+Mary Clark,40.0,Female,unknow,Lisinopril,2019-03-25,160.0,no email,555-555-5555,,
+Robert Brown,25.0,Female,Heart Disease,Atorvastatin,2019-12-01,,no email,555-555-5555,,
+David Lee,40.0,Female,Diabetes,Atorvastatin,2019-12-01,180.0,patient@example.com,no number,110.0,70.0
+John Doe,40.0,Male,Heart Disease,Lisinopril,2019-03-25,,patient@example.com,123-456-7890,,
+Emily Davis,60.0,Male,Diabetes,Albuterol,2019-12-01,220.0,contact@domain.com,no number,140.0,90.0
+Emily Davis,25.0,Female,Asthma,Albuterol,2020-01-15,,contact@domain.com,123-456-7890,110.0,70.0
+Michael Wilson,25.0,Male,Heart Disease,Metformin,2019-12-01,160.0,patient@example.com,098-765-4321,,
+David Lee,35.0,Female,Asthma,Metformin,2019-03-25,,no email,555-555-5555,,
+David Lee,35.0,Other,Asthma,Albuterol,2018-04-05,180.0,contact@domain.com,123-456-7890,130.0,85.0
+Emily Davis,60.0,Other,Hypertension,None,2019-12-01,180.0,no email,no number,,
+David Lee,70.0,Other,Diabetes,Atorvastatin,2020-02-20,,no email,no number,120.0,80.0
+Robert Brown,25.0,Female,unknow,None,2020-01-15,180.0,no email,555-555-5555,110.0,70.0
+Sarah Johnson,60.0,Other,Diabetes,Atorvastatin,2020-01-15,180.0,contact@domain.com,no number,120.0,80.0
+Jane Smith,35.0,Male,unknow,Albuterol,2020-02-20,160.0,no email,no number,110.0,70.0
+Mary Clark,35.0,Other,Diabetes,Metformin,2020-02-20,220.0,contact@domain.com,123-456-7890,130.0,85.0
+James Taylor,25.0,Other,Asthma,Metformin,2019-12-01,160.0,contact@domain.com,no number,,
+Michael Wilson,40.0,Other,Heart Disease,None,2020-02-20,200.0,no email,555-555-5555,,
+Sarah Johnson,40.0,Male,Heart Disease,Metformin,2018-04-05,160.0,patient@example.com,123-456-7890,,
+Emily Davis,35.0,Female,Hypertension,Albuterol,2019-03-25,,no email,098-765-4321,110.0,70.0
+Mary Clark,70.0,Male,unknow,None,2020-02-20,220.0,no email,no number,,
+David Lee,70.0,Female,unknow,Atorvastatin,2020-02-20,,name@hospital.org,no number,120.0,80.0
+James Taylor,35.0,Female,unknow,Metformin,2018-04-05,200.0,no email,123-456-7890,,
+David Lee,40.0,Other,Asthma,Lisinopril,2020-01-15,220.0,contact@domain.com,no number,130.0,85.0
+John Doe,40.0,Female,unknow,Metformin,2020-01-15,180.0,contact@domain.com,no number,120.0,80.0
+John Doe,60.0,Male,Heart Disease,Atorvastatin,2019-12-01,160.0,no email,555-555-5555,,
+James Taylor,70.0,Male,Asthma,None,2018-04-05,,name@hospital.org,no number,,
+James Taylor,60.0,Female,Diabetes,Atorvastatin,2019-03-25,200.0,no email,098-765-4321,140.0,90.0
+Emily Davis,70.0,Other,unknow,Lisinopril,2019-03-25,180.0,name@hospital.org,no number,110.0,70.0
+James Taylor,40.0,Other,unknow,Albuterol,2018-04-05,160.0,name@hospital.org,no number,120.0,80.0
+Robert Brown,40.0,Male,Diabetes,Metformin,2019-03-25,180.0,no email,no number,140.0,90.0
+David Lee,25.0,Other,unknow,None,2020-01-15,160.0,contact@domain.com,123-456-7890,130.0,85.0
+Sarah Johnson,60.0,Female,Diabetes,Albuterol,2019-03-25,220.0,contact@domain.com,no number,110.0,70.0
+Laura Martinez,35.0,Female,Asthma,Atorvastatin,2019-03-25,180.0,name@hospital.org,no number,120.0,80.0
+James Taylor,60.0,Male,Heart Disease,None,2018-04-05,180.0,contact@domain.com,123-456-7890,,
+Michael Wilson,35.0,Female,Diabetes,Albuterol,2018-04-05,180.0,patient@example.com,555-555-5555,120.0,80.0
+John Doe,40.0,Male,Hypertension,None,2019-03-25,220.0,name@hospital.org,123-456-7890,,
+Robert Brown,60.0,Female,Diabetes,Lisinopril,2020-02-20,200.0,contact@domain.com,098-765-4321,110.0,70.0
+Mary Clark,40.0,Male,unknow,Lisinopril,2018-04-05,160.0,patient@example.com,123-456-7890,,
+Laura Martinez,40.0,Other,Asthma,Metformin,2019-12-01,180.0,no email,555-555-5555,130.0,85.0
+Sarah Johnson,40.0,Female,Asthma,Metformin,2019-12-01,220.0,contact@domain.com,no number,,
+Laura Martinez,25.0,Female,Diabetes,Lisinopril,2020-01-15,200.0,patient@example.com,123-456-7890,130.0,85.0
+James Taylor,60.0,Male,Heart Disease,None,2019-03-25,160.0,no email,123-456-7890,110.0,70.0
+Emily Davis,40.0,Male,Hypertension,Lisinopril,2020-02-20,220.0,no email,123-456-7890,110.0,70.0
+John Doe,35.0,Female,Asthma,Metformin,2020-01-15,160.0,patient@example.com,123-456-7890,120.0,80.0
+John Doe,40.0,Male,unknow,Lisinopril,2019-03-25,180.0,name@hospital.org,555-555-5555,130.0,85.0
+Mary Clark,40.0,Female,unknow,Lisinopril,2018-04-05,200.0,name@hospital.org,no number,130.0,85.0
+Emily Davis,35.0,Other,Heart Disease,None,2019-12-01,220.0,contact@domain.com,no number,140.0,90.0
+David Lee,40.0,Male,Asthma,Albuterol,2020-02-20,200.0,no email,123-456-7890,140.0,90.0
+Jane Smith,40.0,Female,Diabetes,Metformin,2019-12-01,180.0,name@hospital.org,555-555-5555,140.0,90.0
+Robert Brown,60.0,Other,unknow,None,2018-04-05,200.0,name@hospital.org,555-555-5555,,
+John Doe,60.0,Other,Heart Disease,Lisinopril,2019-03-25,200.0,no email,123-456-7890,140.0,90.0
+Michael Wilson,70.0,Female,Asthma,Lisinopril,2018-04-05,,no email,098-765-4321,130.0,85.0
+John Doe,70.0,Male,Asthma,Albuterol,2018-04-05,200.0,name@hospital.org,123-456-7890,,
+Laura Martinez,25.0,Female,Asthma,Metformin,2019-12-01,160.0,patient@example.com,098-765-4321,110.0,70.0
+John Doe,40.0,Other,Asthma,Metformin,2020-02-20,220.0,contact@domain.com,123-456-7890,120.0,80.0
+John Doe,60.0,Female,Asthma,Atorvastatin,2018-04-05,,name@hospital.org,098-765-4321,140.0,90.0
+Jane Smith,40.0,Male,unknow,Metformin,2019-12-01,220.0,name@hospital.org,098-765-4321,110.0,70.0
+Jane Smith,35.0,Other,Heart Disease,Albuterol,2020-02-20,220.0,no email,123-456-7890,130.0,85.0
+Sarah Johnson,40.0,Female,Asthma,Atorvastatin,2019-03-25,180.0,patient@example.com,098-765-4321,120.0,80.0
+David Lee,40.0,Male,Hypertension,Atorvastatin,2019-03-25,180.0,contact@domain.com,no number,110.0,70.0
+Michael Wilson,70.0,Other,Hypertension,Lisinopril,2020-01-15,,name@hospital.org,no number,120.0,80.0
+John Doe,40.0,Male,Heart Disease,Lisinopril,2019-12-01,180.0,contact@domain.com,555-555-5555,140.0,90.0
+John Doe,25.0,Other,Diabetes,Metformin,2020-02-20,180.0,no email,098-765-4321,130.0,85.0
+Robert Brown,40.0,Female,Diabetes,Atorvastatin,2018-04-05,180.0,name@hospital.org,098-765-4321,120.0,80.0
+Jane Smith,70.0,Male,Diabetes,Lisinopril,2019-03-25,220.0,name@hospital.org,555-555-5555,110.0,70.0
+Michael Wilson,35.0,Other,Hypertension,Albuterol,2020-02-20,,no email,098-765-4321,140.0,90.0
+Mary Clark,70.0,Male,Diabetes,Lisinopril,2019-12-01,220.0,no email,555-555-5555,140.0,90.0
+Sarah Johnson,25.0,Male,unknow,Lisinopril,2020-01-15,160.0,name@hospital.org,123-456-7890,110.0,70.0
+David Lee,40.0,Female,Asthma,Atorvastatin,2019-03-25,220.0,contact@domain.com,no number,110.0,70.0
+Emily Davis,35.0,Male,Hypertension,Atorvastatin,2020-02-20,160.0,patient@example.com,no number,120.0,80.0
+David Lee,25.0,Other,Heart Disease,None,2020-02-20,200.0,contact@domain.com,no number,,
+Laura Martinez,70.0,Other,Heart Disease,Albuterol,2020-02-20,200.0,no email,098-765-4321,140.0,90.0
+John Doe,25.0,Other,Asthma,Atorvastatin,2019-12-01,160.0,patient@example.com,no number,120.0,80.0
+Sarah Johnson,40.0,Other,Hypertension,Metformin,2019-12-01,160.0,contact@domain.com,123-456-7890,110.0,70.0
+Laura Martinez,60.0,Female,Diabetes,Albuterol,2019-12-01,220.0,contact@domain.com,no number,120.0,80.0
+Michael Wilson,25.0,Male,Diabetes,Albuterol,2018-04-05,160.0,no email,123-456-7890,110.0,70.0
+Emily Davis,25.0,Female,unknow,Atorvastatin,2020-02-20,,no email,123-456-7890,130.0,85.0
+Jane Smith,70.0,Male,unknow,Albuterol,2019-03-25,200.0,no email,098-765-4321,110.0,70.0
+Sarah Johnson,70.0,Male,Diabetes,Atorvastatin,2019-12-01,200.0,patient@example.com,123-456-7890,110.0,70.0
+Sarah Johnson,35.0,Male,Heart Disease,Lisinopril,2019-12-01,160.0,no email,no number,110.0,70.0
+John Doe,70.0,Female,Heart Disease,None,2020-02-20,180.0,no email,no number,,
+James Taylor,40.0,Male,unknow,Lisinopril,2019-12-01,180.0,name@hospital.org,no number,110.0,70.0
+Sarah Johnson,40.0,Female,Asthma,Atorvastatin,2018-04-05,160.0,name@hospital.org,098-765-4321,140.0,90.0
+Robert Brown,40.0,Other,Diabetes,Atorvastatin,2018-04-05,,patient@example.com,no number,140.0,90.0
+Emily Davis,60.0,Other,unknow,Lisinopril,2019-12-01,180.0,name@hospital.org,555-555-5555,120.0,80.0
+Emily Davis,60.0,Male,unknow,Metformin,2020-02-20,160.0,no email,no number,,
+Robert Brown,40.0,Female,Diabetes,Metformin,2020-02-20,,patient@example.com,555-555-5555,120.0,80.0
+Mary Clark,60.0,Other,Diabetes,Metformin,2020-02-20,,no email,555-555-5555,140.0,90.0
+Robert Brown,35.0,Female,Heart Disease,Atorvastatin,2020-01-15,220.0,patient@example.com,098-765-4321,140.0,90.0
+Robert Brown,70.0,Female,Asthma,Albuterol,2019-12-01,,patient@example.com,123-456-7890,130.0,85.0
+Emily Davis,40.0,Male,Asthma,Atorvastatin,2020-02-20,180.0,contact@domain.com,555-555-5555,110.0,70.0
+David Lee,60.0,Other,Diabetes,Albuterol,2018-04-05,180.0,contact@domain.com,no number,140.0,90.0
+Emily Davis,40.0,Male,Hypertension,Lisinopril,2019-03-25,160.0,patient@example.com,123-456-7890,120.0,80.0
+James Taylor,40.0,Male,unknow,None,2019-03-25,160.0,name@hospital.org,no number,120.0,80.0
+John Doe,25.0,Other,unknow,Albuterol,2020-02-20,,contact@domain.com,no number,110.0,70.0
+Laura Martinez,70.0,Other,Diabetes,Metformin,2019-03-25,200.0,no email,123-456-7890,110.0,70.0
+David Lee,40.0,Female,Hypertension,Atorvastatin,2019-03-25,220.0,no email,123-456-7890,130.0,85.0
+Jane Smith,25.0,Other,Heart Disease,Lisinopril,2020-01-15,200.0,contact@domain.com,no number,,
+Laura Martinez,60.0,Female,Diabetes,Metformin,2018-04-05,,patient@example.com,098-765-4321,120.0,80.0
+John Doe,25.0,Female,Diabetes,Lisinopril,2018-04-05,,name@hospital.org,no number,110.0,70.0
+James Taylor,70.0,Female,unknow,None,2020-01-15,200.0,no email,no number,120.0,80.0
+James Taylor,40.0,Other,Diabetes,Atorvastatin,2020-01-15,220.0,contact@domain.com,098-765-4321,110.0,70.0
+Jane Smith,40.0,Male,Diabetes,Atorvastatin,2019-03-25,200.0,name@hospital.org,123-456-7890,140.0,90.0
+David Lee,60.0,Female,Diabetes,None,2019-12-01,160.0,name@hospital.org,no number,120.0,80.0
+Mary Clark,40.0,Male,unknow,Atorvastatin,2019-03-25,180.0,name@hospital.org,no number,140.0,90.0
+Robert Brown,70.0,Male,Heart Disease,Albuterol,2020-01-15,160.0,patient@example.com,no number,120.0,80.0
+David Lee,60.0,Other,Heart Disease,Lisinopril,2018-04-05,180.0,no email,098-765-4321,,
+Mary Clark,35.0,Male,Diabetes,Metformin,2019-03-25,,name@hospital.org,no number,130.0,85.0
+James Taylor,25.0,Male,unknow,None,2019-12-01,220.0,no email,098-765-4321,140.0,90.0
+Emily Davis,70.0,Other,Heart Disease,Albuterol,2019-03-25,200.0,contact@domain.com,123-456-7890,110.0,70.0
+John Doe,35.0,Female,Heart Disease,Metformin,2020-02-20,220.0,no email,098-765-4321,,
+Jane Smith,40.0,Male,Heart Disease,Metformin,2019-03-25,200.0,patient@example.com,098-765-4321,120.0,80.0
+John Doe,40.0,Other,unknow,None,2020-01-15,160.0,patient@example.com,no number,140.0,90.0
+Michael Wilson,60.0,Male,unknow,Albuterol,2018-04-05,160.0,no email,no number,120.0,80.0
+Michael Wilson,25.0,Male,Diabetes,Metformin,2018-04-05,200.0,no email,no number,120.0,80.0
+David Lee,60.0,Female,Asthma,Metformin,2020-01-15,220.0,patient@example.com,555-555-5555,120.0,80.0
+James Taylor,40.0,Male,Heart Disease,Albuterol,2020-02-20,200.0,patient@example.com,098-765-4321,130.0,85.0
+James Taylor,60.0,Other,Asthma,Atorvastatin,2020-01-15,,no email,555-555-5555,130.0,85.0
+Robert Brown,25.0,Male,unknow,Metformin,2019-03-25,160.0,patient@example.com,no number,110.0,70.0
+Robert Brown,40.0,Female,unknow,Lisinopril,2020-01-15,,no email,no number,140.0,90.0
+Robert Brown,60.0,Female,unknow,Albuterol,2020-01-15,160.0,no email,no number,,
+Emily Davis,40.0,Other,Asthma,Metformin,2020-02-20,160.0,no email,no number,,
+Laura Martinez,70.0,Female,unknow,None,2019-03-25,180.0,contact@domain.com,no number,,
+Sarah Johnson,40.0,Male,Diabetes,Lisinopril,2019-12-01,,no email,123-456-7890,120.0,80.0
+Laura Martinez,70.0,Female,unknow,Metformin,2019-12-01,,no email,098-765-4321,130.0,85.0
+John Doe,40.0,Other,Hypertension,Lisinopril,2018-04-05,180.0,contact@domain.com,no number,140.0,90.0
+Laura Martinez,40.0,Female,Asthma,Lisinopril,2020-01-15,220.0,name@hospital.org,no number,120.0,80.0
+Emily Davis,70.0,Female,Hypertension,Atorvastatin,2018-04-05,,patient@example.com,no number,130.0,85.0
+John Doe,35.0,Female,unknow,Lisinopril,2020-02-20,200.0,no email,no number,130.0,85.0
+Laura Martinez,25.0,Other,Diabetes,Atorvastatin,2019-12-01,180.0,patient@example.com,no number,140.0,90.0
+Emily Davis,35.0,Female,Heart Disease,Albuterol,2020-01-15,,no email,555-555-5555,140.0,90.0
+Sarah Johnson,60.0,Female,unknow,Atorvastatin,2020-02-20,220.0,patient@example.com,098-765-4321,140.0,90.0
+Laura Martinez,40.0,Male,Diabetes,None,2020-02-20,,contact@domain.com,098-765-4321,120.0,80.0
+Emily Davis,35.0,Other,Asthma,Metformin,2020-01-15,160.0,patient@example.com,123-456-7890,110.0,70.0
+Robert Brown,40.0,Female,Hypertension,Albuterol,2020-02-20,200.0,patient@example.com,123-456-7890,140.0,90.0
+James Taylor,60.0,Other,Hypertension,Albuterol,2020-01-15,180.0,patient@example.com,123-456-7890,110.0,70.0
+Robert Brown,60.0,Female,Hypertension,None,2020-01-15,160.0,name@hospital.org,098-765-4321,120.0,80.0
+James Taylor,35.0,Female,Asthma,Atorvastatin,2019-03-25,220.0,name@hospital.org,555-555-5555,110.0,70.0
+Jane Smith,35.0,Female,Diabetes,Metformin,2018-04-05,160.0,no email,098-765-4321,,
+Jane Smith,40.0,Male,Asthma,Atorvastatin,2020-02-20,160.0,contact@domain.com,098-765-4321,110.0,70.0
+Jane Smith,25.0,Male,Hypertension,Lisinopril,2020-02-20,220.0,patient@example.com,098-765-4321,140.0,90.0
+Sarah Johnson,35.0,Male,unknow,Atorvastatin,2019-03-25,160.0,patient@example.com,098-765-4321,120.0,80.0
+Robert Brown,35.0,Other,Heart Disease,Albuterol,2019-03-25,180.0,patient@example.com,555-555-5555,140.0,90.0
+James Taylor,70.0,Other,Asthma,Metformin,2019-03-25,,patient@example.com,123-456-7890,,
+Emily Davis,40.0,Male,Asthma,Atorvastatin,2019-12-01,160.0,name@hospital.org,no number,140.0,90.0
+John Doe,70.0,Other,Diabetes,Metformin,2019-12-01,180.0,no email,123-456-7890,140.0,90.0
+Emily Davis,70.0,Female,Diabetes,Metformin,2019-12-01,,no email,123-456-7890,140.0,90.0
+John Doe,60.0,Female,Asthma,Lisinopril,2020-01-15,,contact@domain.com,no number,130.0,85.0
+Michael Wilson,25.0,Female,Hypertension,Lisinopril,2020-02-20,160.0,patient@example.com,098-765-4321,,
+Emily Davis,40.0,Male,Heart Disease,Albuterol,2018-04-05,180.0,no email,555-555-5555,140.0,90.0
+Laura Martinez,40.0,Other,Diabetes,None,2020-01-15,160.0,no email,555-555-5555,140.0,90.0
+Laura Martinez,40.0,Male,Hypertension,Metformin,2020-02-20,220.0,no email,123-456-7890,140.0,90.0
+David Lee,35.0,Other,unknow,None,2020-02-20,,name@hospital.org,no number,120.0,80.0
+Robert Brown,35.0,Female,Diabetes,Albuterol,2019-03-25,160.0,no email,no number,130.0,85.0
+John Doe,40.0,Male,Hypertension,Metformin,2019-03-25,,no email,098-765-4321,120.0,80.0
+John Doe,35.0,Other,Hypertension,Metformin,2020-01-15,180.0,name@hospital.org,123-456-7890,130.0,85.0
+Robert Brown,25.0,Other,Heart Disease,None,2019-03-25,200.0,no email,555-555-5555,140.0,90.0
+Sarah Johnson,70.0,Female,Heart Disease,Atorvastatin,2020-02-20,160.0,no email,no number,,
+David Lee,35.0,Male,unknow,Lisinopril,2019-03-25,160.0,no email,no number,110.0,70.0
+Sarah Johnson,60.0,Male,Hypertension,Atorvastatin,2019-12-01,,name@hospital.org,123-456-7890,110.0,70.0
+Sarah Johnson,35.0,Male,Hypertension,None,2019-03-25,180.0,patient@example.com,no number,140.0,90.0
+Sarah Johnson,40.0,Female,Heart Disease,Lisinopril,2020-02-20,220.0,contact@domain.com,555-555-5555,120.0,80.0
+Robert Brown,25.0,Male,Diabetes,Atorvastatin,2020-01-15,180.0,no email,123-456-7890,,
+Sarah Johnson,40.0,Female,Diabetes,Lisinopril,2018-04-05,160.0,name@hospital.org,no number,130.0,85.0
+Laura Martinez,40.0,Female,Asthma,Metformin,2019-03-25,220.0,no email,no number,140.0,90.0
+Jane Smith,60.0,Female,Heart Disease,Atorvastatin,2020-02-20,180.0,name@hospital.org,098-765-4321,,
+Michael Wilson,25.0,Other,Asthma,Lisinopril,2018-04-05,200.0,contact@domain.com,555-555-5555,,
+John Doe,25.0,Male,Heart Disease,Lisinopril,2018-04-05,,contact@domain.com,555-555-5555,130.0,85.0
+John Doe,25.0,Male,unknow,Lisinopril,2019-12-01,180.0,patient@example.com,no number,,
+Michael Wilson,25.0,Female,Hypertension,Atorvastatin,2018-04-05,180.0,patient@example.com,123-456-7890,120.0,80.0
+Robert Brown,25.0,Female,unknow,Albuterol,2020-02-20,200.0,contact@domain.com,no number,120.0,80.0
+Emily Davis,60.0,Male,Heart Disease,Atorvastatin,2020-02-20,160.0,no email,no number,120.0,80.0
+Robert Brown,35.0,Female,Hypertension,None,2019-03-25,,no email,098-765-4321,,
+John Doe,40.0,Male,Diabetes,Atorvastatin,2019-03-25,180.0,no email,098-765-4321,120.0,80.0
+John Doe,25.0,Other,Diabetes,Lisinopril,2019-03-25,220.0,patient@example.com,098-765-4321,130.0,85.0
+Michael Wilson,35.0,Female,Asthma,Metformin,2018-04-05,180.0,no email,no number,,
+Sarah Johnson,35.0,Male,Heart Disease,Atorvastatin,2018-04-05,,patient@example.com,no number,110.0,70.0
+Robert Brown,40.0,Female,Heart Disease,Atorvastatin,2019-12-01,180.0,contact@domain.com,555-555-5555,,
+James Taylor,60.0,Male,Diabetes,Lisinopril,2019-03-25,200.0,no email,123-456-7890,130.0,85.0
+Michael Wilson,40.0,Male,unknow,Metformin,2020-01-15,180.0,no email,555-555-5555,110.0,70.0
+Laura Martinez,40.0,Female,Hypertension,Metformin,2019-12-01,180.0,contact@domain.com,no number,,
+John Doe,35.0,Other,unknow,None,2020-01-15,220.0,no email,555-555-5555,120.0,80.0
+Michael Wilson,70.0,Male,unknow,Atorvastatin,2018-04-05,200.0,no email,no number,140.0,90.0
+Robert Brown,70.0,Male,Diabetes,Metformin,2019-12-01,200.0,name@hospital.org,098-765-4321,140.0,90.0
+John Doe,40.0,Male,Diabetes,Metformin,2019-12-01,180.0,patient@example.com,no number,120.0,80.0
+Emily Davis,40.0,Other,Diabetes,Albuterol,2020-02-20,220.0,no email,no number,140.0,90.0
+Michael Wilson,35.0,Other,Asthma,Albuterol,2018-04-05,180.0,contact@domain.com,555-555-5555,140.0,90.0
+David Lee,60.0,Female,unknow,Metformin,2018-04-05,180.0,no email,no number,120.0,80.0
+John Doe,40.0,Other,Heart Disease,None,2019-12-01,,no email,555-555-5555,120.0,80.0
+Robert Brown,35.0,Female,Hypertension,Metformin,2018-04-05,,patient@example.com,555-555-5555,,
+Jane Smith,35.0,Female,Asthma,Lisinopril,2019-12-01,220.0,name@hospital.org,no number,,
+James Taylor,25.0,Other,Heart Disease,Atorvastatin,2020-02-20,160.0,patient@example.com,555-555-5555,120.0,80.0
+Mary Clark,60.0,Female,unknow,None,2019-12-01,,no email,098-765-4321,130.0,85.0
+Sarah Johnson,25.0,Other,Diabetes,Lisinopril,2018-04-05,160.0,no email,555-555-5555,140.0,90.0
+Mary Clark,40.0,Female,unknow,None,2018-04-05,200.0,no email,098-765-4321,,
+Robert Brown,25.0,Other,Hypertension,Lisinopril,2019-12-01,,no email,no number,140.0,90.0
+Laura Martinez,25.0,Other,Asthma,Atorvastatin,2019-12-01,,contact@domain.com,no number,110.0,70.0
+Laura Martinez,40.0,Female,Asthma,Atorvastatin,2019-12-01,220.0,name@hospital.org,098-765-4321,120.0,80.0
+Jane Smith,70.0,Male,Hypertension,Albuterol,2019-03-25,160.0,no email,no number,130.0,85.0
+Sarah Johnson,35.0,Female,Heart Disease,Lisinopril,2018-04-05,,no email,no number,110.0,70.0
+David Lee,60.0,Other,Heart Disease,Albuterol,2018-04-05,,no email,098-765-4321,110.0,70.0
+Jane Smith,25.0,Male,Asthma,Lisinopril,2019-03-25,220.0,name@hospital.org,no number,110.0,70.0
+Mary Clark,60.0,Female,Asthma,Albuterol,2019-12-01,220.0,patient@example.com,123-456-7890,120.0,80.0
+Jane Smith,70.0,Female,Diabetes,Atorvastatin,2020-02-20,160.0,name@hospital.org,no number,,
+Mary Clark,70.0,Female,Heart Disease,None,2019-12-01,200.0,name@hospital.org,no number,120.0,80.0
+John Doe,25.0,Male,Hypertension,Albuterol,2019-12-01,200.0,name@hospital.org,no number,,
+Laura Martinez,40.0,Other,Heart Disease,Lisinopril,2019-03-25,180.0,no email,no number,110.0,70.0
+John Doe,25.0,Female,Diabetes,Lisinopril,2018-04-05,,no email,555-555-5555,110.0,70.0
+James Taylor,40.0,Female,Asthma,Atorvastatin,2019-12-01,160.0,contact@domain.com,no number,130.0,85.0
+Sarah Johnson,35.0,Female,Asthma,Lisinopril,2018-04-05,,patient@example.com,no number,,
+David Lee,40.0,Female,Diabetes,Metformin,2020-01-15,160.0,no email,098-765-4321,110.0,70.0
+Mary Clark,25.0,Female,Hypertension,None,2018-04-05,160.0,name@hospital.org,123-456-7890,140.0,90.0
+David Lee,60.0,Other,Asthma,Albuterol,2020-02-20,160.0,patient@example.com,555-555-5555,130.0,85.0
+Mary Clark,40.0,Other,unknow,None,2020-02-20,,patient@example.com,098-765-4321,120.0,80.0
+Robert Brown,40.0,Female,Asthma,Atorvastatin,2019-12-01,220.0,contact@domain.com,123-456-7890,130.0,85.0
+Jane Smith,25.0,Male,unknow,Albuterol,2018-04-05,,no email,123-456-7890,140.0,90.0
+James Taylor,40.0,Other,Diabetes,Albuterol,2019-12-01,160.0,name@hospital.org,123-456-7890,,
+Laura Martinez,60.0,Male,Diabetes,Metformin,2019-03-25,180.0,no email,098-765-4321,120.0,80.0
+Mary Clark,70.0,Other,Asthma,Atorvastatin,2020-02-20,200.0,contact@domain.com,555-555-5555,120.0,80.0
+David Lee,40.0,Female,Heart Disease,Lisinopril,2019-12-01,160.0,no email,555-555-5555,,
+James Taylor,70.0,Other,unknow,Metformin,2019-03-25,180.0,patient@example.com,123-456-7890,130.0,85.0
+Emily Davis,60.0,Female,Hypertension,Metformin,2019-12-01,220.0,name@hospital.org,098-765-4321,110.0,70.0
+Emily Davis,25.0,Other,Asthma,None,2018-04-05,160.0,no email,123-456-7890,130.0,85.0
+John Doe,35.0,Female,Hypertension,None,2018-04-05,180.0,contact@domain.com,no number,140.0,90.0
+Laura Martinez,40.0,Female,Asthma,None,2018-04-05,160.0,no email,555-555-5555,110.0,70.0
+Robert Brown,35.0,Female,Heart Disease,Metformin,2018-04-05,,patient@example.com,no number,130.0,85.0
+David Lee,60.0,Female,Heart Disease,Lisinopril,2020-01-15,180.0,name@hospital.org,123-456-7890,,
+Jane Smith,40.0,Male,Heart Disease,Albuterol,2019-03-25,,no email,no number,140.0,90.0
+Jane Smith,70.0,Female,Heart Disease,None,2019-03-25,,no email,555-555-5555,140.0,90.0
+David Lee,40.0,Male,Diabetes,Lisinopril,2018-04-05,180.0,patient@example.com,098-765-4321,140.0,90.0
+Sarah Johnson,35.0,Male,Diabetes,Atorvastatin,2020-01-15,200.0,no email,555-555-5555,110.0,70.0
+Robert Brown,40.0,Female,unknow,None,2018-04-05,180.0,contact@domain.com,098-765-4321,120.0,80.0
+James Taylor,35.0,Male,Hypertension,Albuterol,2020-01-15,200.0,no email,098-765-4321,110.0,70.0
+Mary Clark,40.0,Other,Asthma,Atorvastatin,2018-04-05,160.0,no email,123-456-7890,130.0,85.0
+Sarah Johnson,25.0,Female,Asthma,Atorvastatin,2020-02-20,160.0,no email,123-456-7890,120.0,80.0
+Mary Clark,70.0,Male,Diabetes,Albuterol,2020-02-20,180.0,patient@example.com,555-555-5555,130.0,85.0
+Mary Clark,35.0,Female,Asthma,None,2019-12-01,160.0,patient@example.com,no number,120.0,80.0
+Sarah Johnson,40.0,Female,Diabetes,Metformin,2018-04-05,220.0,contact@domain.com,555-555-5555,110.0,70.0
+John Doe,40.0,Female,unknow,Albuterol,2019-03-25,,no email,no number,140.0,90.0
+Emily Davis,60.0,Male,Hypertension,Albuterol,2019-12-01,,patient@example.com,098-765-4321,,
+Mary Clark,40.0,Other,unknow,Albuterol,2020-02-20,200.0,contact@domain.com,098-765-4321,140.0,90.0
+Sarah Johnson,35.0,Other,Heart Disease,Atorvastatin,2018-04-05,160.0,contact@domain.com,123-456-7890,110.0,70.0
+Sarah Johnson,60.0,Male,Heart Disease,Lisinopril,2019-12-01,200.0,no email,no number,120.0,80.0
+Michael Wilson,35.0,Female,Heart Disease,Metformin,2018-04-05,,name@hospital.org,123-456-7890,140.0,90.0
+John Doe,40.0,Male,unknow,None,2020-02-20,,no email,no number,110.0,70.0
+Laura Martinez,40.0,Male,Asthma,None,2019-12-01,160.0,name@hospital.org,555-555-5555,130.0,85.0
+Michael Wilson,25.0,Male,Hypertension,Lisinopril,2020-02-20,220.0,contact@domain.com,555-555-5555,,
+Michael Wilson,40.0,Female,Heart Disease,Albuterol,2020-01-15,220.0,patient@example.com,no number,140.0,90.0
+David Lee,60.0,Male,Heart Disease,Metformin,2020-02-20,160.0,no email,123-456-7890,120.0,80.0
+Emily Davis,70.0,Female,Heart Disease,None,2018-04-05,160.0,contact@domain.com,123-456-7890,130.0,85.0
+Sarah Johnson,25.0,Male,Hypertension,None,2019-03-25,200.0,patient@example.com,no number,110.0,70.0
+Emily Davis,60.0,Other,Heart Disease,Albuterol,2020-02-20,160.0,contact@domain.com,555-555-5555,,
+Robert Brown,40.0,Male,Hypertension,Lisinopril,2019-03-25,220.0,no email,123-456-7890,120.0,80.0
+David Lee,25.0,Male,Heart Disease,Metformin,2020-01-15,160.0,name@hospital.org,no number,110.0,70.0
+Laura Martinez,60.0,Other,unknow,Lisinopril,2019-12-01,200.0,contact@domain.com,555-555-5555,110.0,70.0
+Emily Davis,40.0,Female,unknow,Lisinopril,2019-12-01,200.0,patient@example.com,no number,140.0,90.0
+Jane Smith,40.0,Female,Hypertension,Metformin,2019-03-25,200.0,no email,no number,140.0,90.0
+Mary Clark,70.0,Male,unknow,Metformin,2019-12-01,200.0,no email,098-765-4321,120.0,80.0
+Robert Brown,40.0,Other,Hypertension,None,2020-02-20,180.0,no email,no number,110.0,70.0
+John Doe,35.0,Female,unknow,None,2019-03-25,160.0,name@hospital.org,no number,140.0,90.0
+Laura Martinez,40.0,Male,unknow,Metformin,2018-04-05,,no email,123-456-7890,,
+Robert Brown,40.0,Other,Hypertension,Atorvastatin,2020-02-20,160.0,no email,098-765-4321,,
+Mary Clark,70.0,Female,Asthma,None,2020-02-20,180.0,patient@example.com,no number,110.0,70.0
+David Lee,35.0,Female,unknow,Atorvastatin,2020-02-20,200.0,contact@domain.com,123-456-7890,140.0,90.0
+Mary Clark,60.0,Other,Heart Disease,Metformin,2018-04-05,180.0,name@hospital.org,098-765-4321,120.0,80.0
+Michael Wilson,60.0,Other,Asthma,None,2020-01-15,220.0,no email,555-555-5555,120.0,80.0
+Mary Clark,40.0,Other,Hypertension,Lisinopril,2019-12-01,220.0,name@hospital.org,123-456-7890,120.0,80.0
+Michael Wilson,35.0,Other,Asthma,Metformin,2019-03-25,160.0,no email,no number,,
+David Lee,35.0,Male,Diabetes,Albuterol,2020-01-15,160.0,name@hospital.org,no number,140.0,90.0
+James Taylor,70.0,Other,Diabetes,Atorvastatin,2019-03-25,,no email,098-765-4321,140.0,90.0
+Michael Wilson,40.0,Female,unknow,Metformin,2019-12-01,,contact@domain.com,123-456-7890,,
+John Doe,60.0,Female,unknow,Metformin,2018-04-05,220.0,contact@domain.com,555-555-5555,120.0,80.0
+Mary Clark,70.0,Male,Heart Disease,None,2020-02-20,200.0,name@hospital.org,no number,120.0,80.0
+Mary Clark,25.0,Female,Asthma,None,2020-02-20,180.0,patient@example.com,no number,110.0,70.0
+John Doe,60.0,Female,Diabetes,None,2018-04-05,,name@hospital.org,123-456-7890,130.0,85.0
+Jane Smith,70.0,Other,unknow,Albuterol,2020-01-15,,no email,555-555-5555,140.0,90.0
+Sarah Johnson,60.0,Female,Asthma,None,2020-01-15,200.0,contact@domain.com,098-765-4321,140.0,90.0
+James Taylor,40.0,Male,unknow,Metformin,2019-03-25,200.0,contact@domain.com,123-456-7890,140.0,90.0
+Laura Martinez,25.0,Other,unknow,None,2018-04-05,160.0,contact@domain.com,098-765-4321,130.0,85.0
+Michael Wilson,40.0,Other,Diabetes,Lisinopril,2020-01-15,180.0,patient@example.com,no number,110.0,70.0
+John Doe,25.0,Male,Diabetes,None,2018-04-05,200.0,patient@example.com,098-765-4321,130.0,85.0
+David Lee,40.0,Other,unknow,Albuterol,2019-12-01,,no email,555-555-5555,120.0,80.0
+Michael Wilson,70.0,Other,Hypertension,Lisinopril,2020-02-20,,name@hospital.org,no number,120.0,80.0
+Sarah Johnson,25.0,Male,unknow,Metformin,2020-02-20,220.0,name@hospital.org,555-555-5555,140.0,90.0
+David Lee,40.0,Other,unknow,Metformin,2020-02-20,200.0,no email,098-765-4321,,
+Robert Brown,60.0,Male,Heart Disease,Atorvastatin,2018-04-05,160.0,contact@domain.com,123-456-7890,140.0,90.0
+Mary Clark,25.0,Male,Heart Disease,Lisinopril,2018-04-05,180.0,patient@example.com,no number,,
+Robert Brown,70.0,Female,Heart Disease,Atorvastatin,2019-03-25,160.0,no email,no number,130.0,85.0
+Michael Wilson,25.0,Female,Hypertension,Lisinopril,2020-02-20,,no email,123-456-7890,120.0,80.0
+Sarah Johnson,35.0,Other,Hypertension,Lisinopril,2019-03-25,160.0,patient@example.com,123-456-7890,,
+James Taylor,60.0,Other,unknow,Albuterol,2020-02-20,,name@hospital.org,555-555-5555,130.0,85.0
+Michael Wilson,70.0,Male,Heart Disease,Atorvastatin,2019-03-25,,contact@domain.com,098-765-4321,120.0,80.0
+John Doe,70.0,Other,Hypertension,Albuterol,2019-03-25,,name@hospital.org,555-555-5555,,
+Emily Davis,40.0,Male,Diabetes,Lisinopril,2019-12-01,,no email,098-765-4321,140.0,90.0
+Michael Wilson,40.0,Male,unknow,Metformin,2019-03-25,,contact@domain.com,555-555-5555,140.0,90.0
+Mary Clark,40.0,Other,Asthma,Lisinopril,2018-04-05,220.0,no email,123-456-7890,140.0,90.0
+Mary Clark,70.0,Male,unknow,Albuterol,2019-03-25,160.0,no email,no number,130.0,85.0
+Michael Wilson,60.0,Female,Asthma,Atorvastatin,2020-02-20,220.0,name@hospital.org,098-765-4321,140.0,90.0
+David Lee,25.0,Other,Heart Disease,Atorvastatin,2019-03-25,220.0,name@hospital.org,no number,110.0,70.0
+Emily Davis,25.0,Female,Asthma,Albuterol,2020-01-15,200.0,name@hospital.org,no number,120.0,80.0
+John Doe,60.0,Other,Heart Disease,Atorvastatin,2020-02-20,200.0,patient@example.com,123-456-7890,130.0,85.0
+Michael Wilson,70.0,Male,Diabetes,None,2020-01-15,200.0,no email,555-555-5555,140.0,90.0
+David Lee,25.0,Other,Asthma,Metformin,2020-02-20,180.0,contact@domain.com,555-555-5555,120.0,80.0
+Mary Clark,25.0,Female,unknow,Metformin,2018-04-05,200.0,name@hospital.org,123-456-7890,,
+Mary Clark,25.0,Male,Heart Disease,Metformin,2018-04-05,160.0,name@hospital.org,no number,140.0,90.0
+Sarah Johnson,40.0,Other,unknow,Atorvastatin,2018-04-05,220.0,patient@example.com,no number,120.0,80.0
+Michael Wilson,40.0,Other,Hypertension,Atorvastatin,2020-01-15,160.0,contact@domain.com,555-555-5555,110.0,70.0
+Emily Davis,35.0,Other,Heart Disease,Lisinopril,2019-12-01,200.0,no email,098-765-4321,,
+Jane Smith,40.0,Female,Asthma,Lisinopril,2020-02-20,180.0,no email,no number,110.0,70.0
+Emily Davis,60.0,Female,Heart Disease,Metformin,2018-04-05,180.0,patient@example.com,098-765-4321,120.0,80.0
+Mary Clark,60.0,Other,unknow,None,2020-02-20,220.0,no email,no number,110.0,70.0
+Mary Clark,60.0,Male,Diabetes,Lisinopril,2020-01-15,160.0,no email,098-765-4321,120.0,80.0
+Robert Brown,35.0,Male,Heart Disease,Lisinopril,2019-12-01,,name@hospital.org,no number,120.0,80.0
+Mary Clark,40.0,Female,Asthma,Atorvastatin,2020-01-15,160.0,name@hospital.org,098-765-4321,110.0,70.0
+John Doe,70.0,Male,Hypertension,None,2020-02-20,200.0,contact@domain.com,098-765-4321,120.0,80.0
+Laura Martinez,70.0,Female,Diabetes,Metformin,2019-12-01,,no email,098-765-4321,140.0,90.0
+Michael Wilson,35.0,Other,Hypertension,Lisinopril,2019-12-01,180.0,name@hospital.org,098-765-4321,120.0,80.0
+Emily Davis,70.0,Female,Heart Disease,None,2020-01-15,220.0,name@hospital.org,123-456-7890,130.0,85.0
+Laura Martinez,60.0,Female,unknow,None,2018-04-05,220.0,contact@domain.com,no number,120.0,80.0
+David Lee,40.0,Other,unknow,Metformin,2020-02-20,180.0,no email,no number,130.0,85.0
+Jane Smith,25.0,Male,Asthma,None,2019-03-25,200.0,name@hospital.org,no number,120.0,80.0
+John Doe,40.0,Female,unknow,None,2019-03-25,180.0,patient@example.com,123-456-7890,120.0,80.0
+Emily Davis,40.0,Female,Diabetes,None,2020-01-15,200.0,patient@example.com,123-456-7890,110.0,70.0
+Laura Martinez,35.0,Other,unknow,Lisinopril,2020-02-20,,no email,123-456-7890,140.0,90.0
+Jane Smith,40.0,Male,Asthma,Metformin,2020-02-20,180.0,no email,123-456-7890,140.0,90.0
+Robert Brown,60.0,Female,Heart Disease,None,2020-01-15,200.0,contact@domain.com,098-765-4321,,
+John Doe,70.0,Other,Heart Disease,None,2020-02-20,,patient@example.com,no number,110.0,70.0
+John Doe,60.0,Female,unknow,Lisinopril,2018-04-05,180.0,patient@example.com,555-555-5555,110.0,70.0
+Robert Brown,35.0,Other,Hypertension,Metformin,2020-01-15,220.0,no email,no number,140.0,90.0
+Michael Wilson,60.0,Male,Heart Disease,Atorvastatin,2018-04-05,180.0,no email,123-456-7890,110.0,70.0
+Robert Brown,70.0,Male,unknow,Lisinopril,2020-02-20,160.0,no email,no number,140.0,90.0
+John Doe,40.0,Male,Asthma,Metformin,2020-01-15,180.0,no email,123-456-7890,110.0,70.0
+John Doe,35.0,Male,unknow,None,2020-02-20,160.0,patient@example.com,123-456-7890,120.0,80.0
+Laura Martinez,40.0,Female,Heart Disease,Metformin,2020-01-15,,contact@domain.com,123-456-7890,140.0,90.0
+Mary Clark,25.0,Female,Asthma,Metformin,2020-02-20,180.0,patient@example.com,123-456-7890,140.0,90.0
+Jane Smith,40.0,Male,unknow,Metformin,2018-04-05,,no email,123-456-7890,130.0,85.0
+Robert Brown,25.0,Male,Diabetes,Atorvastatin,2018-04-05,,patient@example.com,no number,110.0,70.0
+Jane Smith,25.0,Male,Asthma,Metformin,2020-02-20,200.0,contact@domain.com,no number,110.0,70.0
+Robert Brown,40.0,Female,Diabetes,Atorvastatin,2020-01-15,,name@hospital.org,123-456-7890,140.0,90.0
+David Lee,35.0,Male,Hypertension,None,2019-03-25,,patient@example.com,123-456-7890,120.0,80.0
+John Doe,70.0,Male,Asthma,Atorvastatin,2018-04-05,180.0,no email,123-456-7890,120.0,80.0
+Mary Clark,60.0,Male,Diabetes,None,2018-04-05,180.0,name@hospital.org,123-456-7890,120.0,80.0
+Laura Martinez,60.0,Other,Heart Disease,None,2019-03-25,220.0,no email,098-765-4321,110.0,70.0
+Mary Clark,70.0,Male,Heart Disease,Atorvastatin,2020-02-20,200.0,no email,098-765-4321,130.0,85.0
+Mary Clark,25.0,Other,Hypertension,Lisinopril,2020-01-15,,no email,555-555-5555,140.0,90.0
+Mary Clark,25.0,Other,Asthma,Albuterol,2020-02-20,200.0,patient@example.com,123-456-7890,,
+Jane Smith,35.0,Male,Asthma,Metformin,2019-12-01,160.0,no email,555-555-5555,130.0,85.0
+Robert Brown,40.0,Other,Asthma,Albuterol,2018-04-05,,name@hospital.org,no number,,
+James Taylor,40.0,Male,Hypertension,Metformin,2019-12-01,200.0,contact@domain.com,555-555-5555,130.0,85.0
+David Lee,25.0,Female,Asthma,Metformin,2018-04-05,220.0,no email,no number,120.0,80.0
+Emily Davis,60.0,Female,Heart Disease,None,2018-04-05,220.0,patient@example.com,098-765-4321,110.0,70.0
+Mary Clark,35.0,Female,Diabetes,Metformin,2019-12-01,,no email,098-765-4321,,
+Michael Wilson,40.0,Female,Heart Disease,Metformin,2019-12-01,160.0,contact@domain.com,123-456-7890,130.0,85.0
+Jane Smith,35.0,Other,Heart Disease,Atorvastatin,2020-02-20,220.0,name@hospital.org,123-456-7890,110.0,70.0
+Laura Martinez,40.0,Male,Diabetes,Albuterol,2019-12-01,220.0,no email,no number,,
+Emily Davis,40.0,Male,Heart Disease,Atorvastatin,2020-02-20,160.0,no email,no number,140.0,90.0
+James Taylor,70.0,Male,Hypertension,Metformin,2020-02-20,200.0,contact@domain.com,no number,130.0,85.0
+Michael Wilson,25.0,Female,Diabetes,None,2020-02-20,220.0,patient@example.com,123-456-7890,140.0,90.0
+James Taylor,35.0,Female,Heart Disease,Atorvastatin,2018-04-05,180.0,name@hospital.org,123-456-7890,120.0,80.0
+Emily Davis,35.0,Male,unknow,Atorvastatin,2018-04-05,220.0,contact@domain.com,no number,140.0,90.0
+Mary Clark,70.0,Female,Heart Disease,Lisinopril,2019-12-01,200.0,no email,no number,140.0,90.0
+Michael Wilson,60.0,Male,Hypertension,Metformin,2018-04-05,200.0,name@hospital.org,no number,130.0,85.0
+James Taylor,60.0,Male,Asthma,None,2019-12-01,,no email,098-765-4321,120.0,80.0
+Laura Martinez,25.0,Male,Heart Disease,Atorvastatin,2018-04-05,180.0,contact@domain.com,555-555-5555,140.0,90.0
+Robert Brown,25.0,Male,Asthma,Atorvastatin,2020-01-15,200.0,no email,555-555-5555,110.0,70.0
+John Doe,40.0,Male,unknow,None,2020-01-15,160.0,no email,123-456-7890,,
+Robert Brown,70.0,Male,Heart Disease,Metformin,2019-12-01,180.0,no email,098-765-4321,140.0,90.0
+Emily Davis,60.0,Male,Diabetes,Lisinopril,2018-04-05,180.0,patient@example.com,no number,120.0,80.0
+Jane Smith,40.0,Female,Asthma,Atorvastatin,2018-04-05,160.0,no email,123-456-7890,140.0,90.0
+John Doe,35.0,Male,unknow,Lisinopril,2020-02-20,220.0,no email,098-765-4321,,
+David Lee,25.0,Male,Diabetes,Albuterol,2019-03-25,160.0,no email,no number,120.0,80.0
+Laura Martinez,35.0,Female,Diabetes,Metformin,2019-12-01,160.0,name@hospital.org,098-765-4321,130.0,85.0
+David Lee,35.0,Female,Diabetes,Albuterol,2019-03-25,220.0,no email,123-456-7890,120.0,80.0
+Michael Wilson,40.0,Female,Diabetes,Albuterol,2019-03-25,220.0,no email,555-555-5555,130.0,85.0
+John Doe,60.0,Male,Heart Disease,Albuterol,2019-12-01,220.0,contact@domain.com,no number,120.0,80.0
+David Lee,25.0,Other,Heart Disease,Metformin,2018-04-05,220.0,patient@example.com,no number,,
+David Lee,35.0,Other,Heart Disease,Metformin,2019-12-01,220.0,name@hospital.org,098-765-4321,,
+James Taylor,25.0,Female,unknow,None,2019-03-25,160.0,no email,123-456-7890,120.0,80.0
+Robert Brown,40.0,Other,unknow,Lisinopril,2018-04-05,,contact@domain.com,123-456-7890,140.0,90.0
+James Taylor,40.0,Female,unknow,Lisinopril,2020-01-15,,patient@example.com,no number,,
+John Doe,40.0,Male,Hypertension,None,2019-12-01,200.0,name@hospital.org,123-456-7890,130.0,85.0
+John Doe,25.0,Other,unknow,None,2019-12-01,,name@hospital.org,123-456-7890,130.0,85.0
+Emily Davis,25.0,Male,Heart Disease,Albuterol,2018-04-05,,no email,no number,110.0,70.0
+James Taylor,60.0,Other,Heart Disease,None,2020-01-15,160.0,name@hospital.org,no number,130.0,85.0
+Sarah Johnson,35.0,Male,Hypertension,Atorvastatin,2020-01-15,220.0,contact@domain.com,555-555-5555,110.0,70.0
+Robert Brown,35.0,Other,Hypertension,Lisinopril,2018-04-05,220.0,name@hospital.org,555-555-5555,120.0,80.0
+John Doe,40.0,Male,unknow,None,2020-02-20,160.0,no email,098-765-4321,120.0,80.0
+Emily Davis,40.0,Male,Asthma,Atorvastatin,2019-12-01,,contact@domain.com,no number,120.0,80.0
+James Taylor,70.0,Other,Hypertension,Atorvastatin,2019-12-01,160.0,patient@example.com,098-765-4321,140.0,90.0
+Robert Brown,35.0,Male,Diabetes,Atorvastatin,2019-03-25,200.0,patient@example.com,555-555-5555,140.0,90.0
+James Taylor,60.0,Male,Heart Disease,Atorvastatin,2018-04-05,220.0,no email,no number,110.0,70.0
+David Lee,40.0,Male,Diabetes,Albuterol,2019-03-25,180.0,no email,123-456-7890,130.0,85.0
+Emily Davis,40.0,Other,Heart Disease,Atorvastatin,2019-03-25,200.0,no email,555-555-5555,130.0,85.0
+Robert Brown,70.0,Other,Heart Disease,Albuterol,2020-01-15,200.0,patient@example.com,no number,120.0,80.0
+Mary Clark,60.0,Male,Hypertension,Albuterol,2019-12-01,160.0,patient@example.com,555-555-5555,,
+Michael Wilson,40.0,Male,Hypertension,Atorvastatin,2019-03-25,,patient@example.com,no number,140.0,90.0
+Michael Wilson,60.0,Other,Diabetes,Lisinopril,2020-01-15,220.0,patient@example.com,no number,140.0,90.0
+Robert Brown,40.0,Other,Heart Disease,Atorvastatin,2018-04-05,180.0,name@hospital.org,no number,120.0,80.0
+James Taylor,60.0,Male,Diabetes,Atorvastatin,2019-03-25,200.0,contact@domain.com,098-765-4321,140.0,90.0
+Emily Davis,60.0,Male,Asthma,Atorvastatin,2019-12-01,180.0,contact@domain.com,no number,120.0,80.0
+Michael Wilson,25.0,Male,Diabetes,Lisinopril,2019-03-25,,no email,555-555-5555,110.0,70.0
+Emily Davis,40.0,Female,unknow,Metformin,2018-04-05,,name@hospital.org,no number,130.0,85.0
+Michael Wilson,60.0,Other,Diabetes,Metformin,2019-03-25,180.0,patient@example.com,123-456-7890,,
+David Lee,70.0,Female,unknow,Albuterol,2019-12-01,220.0,patient@example.com,555-555-5555,130.0,85.0
+James Taylor,60.0,Other,unknow,Albuterol,2020-01-15,,no email,no number,130.0,85.0
+David Lee,35.0,Other,unknow,Lisinopril,2019-12-01,180.0,no email,no number,110.0,70.0
+Michael Wilson,40.0,Other,Asthma,None,2020-01-15,200.0,no email,123-456-7890,140.0,90.0
+Mary Clark,35.0,Other,Diabetes,Metformin,2020-02-20,180.0,patient@example.com,no number,,
+Mary Clark,40.0,Other,Diabetes,Albuterol,2019-12-01,180.0,no email,555-555-5555,140.0,90.0
+David Lee,35.0,Other,Asthma,Metformin,2019-12-01,160.0,name@hospital.org,555-555-5555,130.0,85.0
+Mary Clark,60.0,Other,Heart Disease,Lisinopril,2018-04-05,,contact@domain.com,123-456-7890,120.0,80.0
+Michael Wilson,60.0,Female,Hypertension,Lisinopril,2019-03-25,220.0,patient@example.com,no number,130.0,85.0
+Robert Brown,25.0,Male,Diabetes,None,2020-01-15,220.0,name@hospital.org,555-555-5555,140.0,90.0
+David Lee,70.0,Male,Hypertension,None,2020-01-15,160.0,patient@example.com,555-555-5555,130.0,85.0
+Jane Smith,35.0,Female,Asthma,Lisinopril,2018-04-05,220.0,no email,555-555-5555,120.0,80.0
+James Taylor,40.0,Female,Heart Disease,Albuterol,2018-04-05,180.0,no email,no number,110.0,70.0
+Mary Clark,25.0,Female,Heart Disease,Metformin,2019-03-25,160.0,no email,123-456-7890,140.0,90.0
+Mary Clark,35.0,Female,Heart Disease,Atorvastatin,2019-03-25,200.0,contact@domain.com,555-555-5555,130.0,85.0
+John Doe,35.0,Other,Asthma,None,2019-12-01,,no email,no number,140.0,90.0
+Sarah Johnson,25.0,Male,unknow,Atorvastatin,2020-02-20,,patient@example.com,no number,110.0,70.0
+David Lee,60.0,Other,unknow,Albuterol,2019-03-25,,no email,098-765-4321,130.0,85.0
+Laura Martinez,35.0,Male,Hypertension,None,2018-04-05,180.0,patient@example.com,123-456-7890,130.0,85.0
+Mary Clark,60.0,Male,unknow,Atorvastatin,2019-03-25,200.0,contact@domain.com,no number,140.0,90.0
+James Taylor,25.0,Female,unknow,Albuterol,2020-01-15,160.0,no email,555-555-5555,140.0,90.0
+Jane Smith,60.0,Other,Heart Disease,Metformin,2020-02-20,160.0,no email,098-765-4321,120.0,80.0
+Mary Clark,40.0,Female,Heart Disease,Albuterol,2019-12-01,,no email,123-456-7890,110.0,70.0
+Jane Smith,40.0,Other,Hypertension,None,2020-01-15,200.0,no email,no number,120.0,80.0
+Michael Wilson,35.0,Male,Diabetes,Lisinopril,2020-01-15,200.0,no email,098-765-4321,130.0,85.0
+Michael Wilson,70.0,Female,Hypertension,Metformin,2020-02-20,200.0,no email,098-765-4321,140.0,90.0
+Sarah Johnson,40.0,Female,Hypertension,Atorvastatin,2019-12-01,220.0,no email,no number,130.0,85.0
+Robert Brown,60.0,Male,Asthma,None,2018-04-05,220.0,patient@example.com,123-456-7890,130.0,85.0
+Laura Martinez,35.0,Male,Asthma,Lisinopril,2019-12-01,,contact@domain.com,no number,,
+John Doe,60.0,Male,Hypertension,Albuterol,2019-03-25,200.0,no email,no number,,
+Sarah Johnson,40.0,Female,Hypertension,Lisinopril,2020-01-15,200.0,patient@example.com,555-555-5555,130.0,85.0
+Emily Davis,25.0,Other,Hypertension,None,2019-03-25,160.0,no email,no number,140.0,90.0
+John Doe,35.0,Female,unknow,None,2018-04-05,160.0,patient@example.com,098-765-4321,130.0,85.0
+David Lee,40.0,Other,Asthma,Lisinopril,2019-03-25,,no email,123-456-7890,,
+James Taylor,40.0,Female,Hypertension,Albuterol,2019-12-01,200.0,no email,no number,140.0,90.0
+Emily Davis,35.0,Female,Heart Disease,Lisinopril,2019-03-25,,no email,no number,130.0,85.0
+Emily Davis,60.0,Male,Heart Disease,None,2018-04-05,160.0,no email,123-456-7890,110.0,70.0
+Sarah Johnson,70.0,Other,unknow,None,2018-04-05,160.0,name@hospital.org,no number,110.0,70.0
+Robert Brown,40.0,Female,unknow,Atorvastatin,2018-04-05,220.0,patient@example.com,555-555-5555,130.0,85.0
+Sarah Johnson,40.0,Female,Diabetes,Atorvastatin,2019-12-01,,name@hospital.org,no number,140.0,90.0
+David Lee,40.0,Male,Diabetes,Metformin,2018-04-05,,patient@example.com,555-555-5555,130.0,85.0
+Mary Clark,70.0,Male,Diabetes,None,2020-01-15,200.0,contact@domain.com,098-765-4321,130.0,85.0
+Mary Clark,60.0,Other,unknow,Atorvastatin,2018-04-05,200.0,no email,098-765-4321,,
+Robert Brown,60.0,Female,unknow,Lisinopril,2019-03-25,220.0,contact@domain.com,no number,110.0,70.0
+David Lee,40.0,Other,unknow,Albuterol,2019-03-25,180.0,contact@domain.com,555-555-5555,,
+Robert Brown,40.0,Female,Heart Disease,Lisinopril,2019-03-25,180.0,patient@example.com,098-765-4321,,
+Jane Smith,60.0,Other,unknow,Albuterol,2019-12-01,180.0,name@hospital.org,no number,130.0,85.0
+Mary Clark,70.0,Male,Heart Disease,Atorvastatin,2019-03-25,,no email,123-456-7890,,
+Emily Davis,35.0,Female,Diabetes,Metformin,2019-12-01,,patient@example.com,123-456-7890,110.0,70.0
+Laura Martinez,25.0,Other,Diabetes,Lisinopril,2019-12-01,160.0,no email,555-555-5555,,
+James Taylor,25.0,Male,Diabetes,Lisinopril,2018-04-05,,contact@domain.com,no number,110.0,70.0
+David Lee,25.0,Male,Hypertension,Lisinopril,2020-01-15,,no email,no number,,
+John Doe,40.0,Other,Hypertension,Albuterol,2018-04-05,,name@hospital.org,555-555-5555,110.0,70.0
+Robert Brown,40.0,Female,Asthma,Atorvastatin,2018-04-05,220.0,patient@example.com,123-456-7890,,
+James Taylor,60.0,Female,Asthma,Lisinopril,2019-12-01,,name@hospital.org,555-555-5555,,
+John Doe,35.0,Male,Asthma,Lisinopril,2019-12-01,200.0,name@hospital.org,no number,140.0,90.0
+James Taylor,70.0,Female,Hypertension,Metformin,2019-03-25,200.0,patient@example.com,098-765-4321,110.0,70.0
+Laura Martinez,35.0,Female,Hypertension,Metformin,2019-03-25,160.0,name@hospital.org,no number,110.0,70.0
+John Doe,70.0,Female,Asthma,Atorvastatin,2018-04-05,220.0,no email,098-765-4321,110.0,70.0
+Sarah Johnson,40.0,Male,Asthma,Atorvastatin,2020-02-20,200.0,no email,098-765-4321,120.0,80.0
+Michael Wilson,25.0,Other,unknow,None,2020-02-20,220.0,no email,098-765-4321,,
+Sarah Johnson,40.0,Female,Asthma,Metformin,2019-03-25,220.0,no email,555-555-5555,110.0,70.0
+Mary Clark,40.0,Male,unknow,None,2020-02-20,160.0,name@hospital.org,123-456-7890,120.0,80.0
+Michael Wilson,40.0,Male,Heart Disease,Albuterol,2019-03-25,220.0,patient@example.com,555-555-5555,140.0,90.0
+Sarah Johnson,70.0,Other,Hypertension,None,2019-12-01,,patient@example.com,123-456-7890,110.0,70.0
+Michael Wilson,60.0,Female,Asthma,Lisinopril,2018-04-05,220.0,no email,no number,110.0,70.0
+Michael Wilson,60.0,Female,Hypertension,None,2020-01-15,160.0,patient@example.com,no number,120.0,80.0
+Emily Davis,70.0,Other,Hypertension,Atorvastatin,2018-04-05,160.0,no email,no number,,
+Robert Brown,40.0,Other,Hypertension,Albuterol,2019-03-25,160.0,name@hospital.org,555-555-5555,140.0,90.0
+Robert Brown,40.0,Male,Heart Disease,Lisinopril,2019-03-25,200.0,patient@example.com,555-555-5555,110.0,70.0
+Emily Davis,40.0,Male,Diabetes,None,2018-04-05,,patient@example.com,123-456-7890,,
+James Taylor,40.0,Other,Asthma,Albuterol,2019-03-25,200.0,contact@domain.com,555-555-5555,140.0,90.0
+Jane Smith,40.0,Female,Diabetes,Albuterol,2020-02-20,180.0,contact@domain.com,098-765-4321,130.0,85.0
+James Taylor,35.0,Male,Diabetes,Lisinopril,2020-02-20,,contact@domain.com,555-555-5555,130.0,85.0
+John Doe,25.0,Male,Diabetes,None,2019-03-25,220.0,name@hospital.org,123-456-7890,140.0,90.0
+John Doe,40.0,Female,Hypertension,Albuterol,2019-03-25,160.0,no email,123-456-7890,120.0,80.0
+Michael Wilson,70.0,Male,unknow,Albuterol,2020-02-20,180.0,no email,098-765-4321,140.0,90.0
+Sarah Johnson,25.0,Female,Hypertension,Metformin,2019-03-25,,no email,123-456-7890,140.0,90.0
+Sarah Johnson,40.0,Female,Hypertension,Albuterol,2019-03-25,200.0,name@hospital.org,no number,120.0,80.0
+Robert Brown,70.0,Female,Diabetes,Metformin,2018-04-05,160.0,name@hospital.org,no number,120.0,80.0
+David Lee,25.0,Other,Hypertension,None,2020-01-15,200.0,contact@domain.com,555-555-5555,,
+James Taylor,70.0,Other,Diabetes,None,2020-02-20,,patient@example.com,no number,,
+Mary Clark,40.0,Other,unknow,None,2018-04-05,,no email,555-555-5555,120.0,80.0
+Laura Martinez,35.0,Female,Asthma,Atorvastatin,2020-01-15,180.0,no email,no number,130.0,85.0
+Sarah Johnson,40.0,Female,Diabetes,None,2019-03-25,220.0,patient@example.com,555-555-5555,130.0,85.0
+Laura Martinez,40.0,Other,unknow,Albuterol,2019-03-25,200.0,contact@domain.com,098-765-4321,140.0,90.0
+Michael Wilson,70.0,Male,Asthma,Lisinopril,2018-04-05,180.0,patient@example.com,123-456-7890,110.0,70.0
+Laura Martinez,60.0,Female,Heart Disease,Metformin,2019-03-25,160.0,patient@example.com,123-456-7890,140.0,90.0
+Mary Clark,40.0,Male,Diabetes,Atorvastatin,2019-12-01,220.0,no email,098-765-4321,140.0,90.0
+Emily Davis,40.0,Male,Diabetes,None,2018-04-05,180.0,contact@domain.com,no number,110.0,70.0
+Mary Clark,35.0,Female,Heart Disease,None,2020-01-15,200.0,name@hospital.org,no number,120.0,80.0
+Laura Martinez,35.0,Female,Heart Disease,Lisinopril,2018-04-05,,no email,no number,130.0,85.0
+Mary Clark,40.0,Male,Diabetes,Lisinopril,2020-02-20,160.0,name@hospital.org,123-456-7890,140.0,90.0
+Jane Smith,60.0,Male,Heart Disease,Atorvastatin,2018-04-05,200.0,contact@domain.com,no number,110.0,70.0
+Michael Wilson,40.0,Other,Hypertension,Metformin,2019-03-25,220.0,patient@example.com,555-555-5555,,
+James Taylor,60.0,Other,Asthma,None,2019-03-25,220.0,no email,no number,140.0,90.0
+Emily Davis,35.0,Female,Asthma,Atorvastatin,2019-12-01,,no email,no number,130.0,85.0
+Sarah Johnson,25.0,Other,Asthma,Albuterol,2019-12-01,,contact@domain.com,098-765-4321,120.0,80.0
+John Doe,70.0,Other,Hypertension,Albuterol,2019-12-01,160.0,no email,555-555-5555,140.0,90.0
+James Taylor,35.0,Other,Heart Disease,Atorvastatin,2020-01-15,160.0,name@hospital.org,no number,140.0,90.0
+John Doe,35.0,Other,unknow,None,2019-12-01,,no email,555-555-5555,110.0,70.0
+Michael Wilson,40.0,Male,Heart Disease,Atorvastatin,2020-01-15,,contact@domain.com,no number,,
+Emily Davis,40.0,Female,Diabetes,None,2019-12-01,220.0,contact@domain.com,123-456-7890,,
+Robert Brown,40.0,Other,Asthma,Lisinopril,2020-01-15,,name@hospital.org,no number,120.0,80.0
+Sarah Johnson,70.0,Male,Heart Disease,Atorvastatin,2018-04-05,180.0,no email,098-765-4321,130.0,85.0
+Jane Smith,40.0,Male,unknow,None,2018-04-05,200.0,no email,no number,120.0,80.0
+Robert Brown,60.0,Male,Diabetes,Atorvastatin,2019-03-25,,patient@example.com,no number,140.0,90.0
+Michael Wilson,40.0,Other,Hypertension,Atorvastatin,2020-01-15,160.0,no email,098-765-4321,140.0,90.0
+James Taylor,25.0,Other,Hypertension,None,2020-02-20,180.0,contact@domain.com,no number,,
+Jane Smith,35.0,Female,unknow,None,2019-03-25,160.0,patient@example.com,no number,130.0,85.0
+Mary Clark,60.0,Other,Diabetes,Metformin,2018-04-05,180.0,contact@domain.com,no number,110.0,70.0
+Laura Martinez,25.0,Other,Asthma,Atorvastatin,2020-01-15,,patient@example.com,555-555-5555,130.0,85.0
+Jane Smith,60.0,Male,Heart Disease,Albuterol,2019-12-01,200.0,no email,no number,140.0,90.0
+Michael Wilson,60.0,Female,Diabetes,Atorvastatin,2020-02-20,160.0,patient@example.com,no number,110.0,70.0
+David Lee,35.0,Other,Hypertension,Atorvastatin,2018-04-05,180.0,contact@domain.com,123-456-7890,130.0,85.0
+Laura Martinez,40.0,Other,unknow,None,2019-03-25,220.0,no email,no number,130.0,85.0
+John Doe,40.0,Male,unknow,Atorvastatin,2020-01-15,,contact@domain.com,555-555-5555,110.0,70.0
+Sarah Johnson,70.0,Male,Heart Disease,Atorvastatin,2020-02-20,200.0,name@hospital.org,098-765-4321,140.0,90.0
+John Doe,40.0,Other,unknow,Albuterol,2020-01-15,,name@hospital.org,098-765-4321,130.0,85.0
+Jane Smith,70.0,Female,unknow,None,2019-12-01,220.0,name@hospital.org,098-765-4321,110.0,70.0
+John Doe,35.0,Female,Diabetes,Atorvastatin,2019-03-25,200.0,name@hospital.org,123-456-7890,140.0,90.0
+Michael Wilson,35.0,Male,Asthma,Lisinopril,2020-01-15,220.0,no email,555-555-5555,110.0,70.0
+Mary Clark,35.0,Male,Heart Disease,Metformin,2018-04-05,,no email,no number,110.0,70.0
+James Taylor,25.0,Other,Diabetes,Albuterol,2019-03-25,180.0,no email,098-765-4321,130.0,85.0
+Sarah Johnson,70.0,Male,Asthma,Atorvastatin,2018-04-05,,contact@domain.com,555-555-5555,140.0,90.0
+John Doe,40.0,Other,Diabetes,Lisinopril,2020-01-15,,patient@example.com,no number,130.0,85.0
+John Doe,40.0,Female,Diabetes,Atorvastatin,2019-03-25,,contact@domain.com,123-456-7890,120.0,80.0
+Jane Smith,60.0,Female,unknow,Atorvastatin,2018-04-05,160.0,contact@domain.com,555-555-5555,120.0,80.0
+James Taylor,60.0,Other,Asthma,None,2019-12-01,220.0,contact@domain.com,555-555-5555,140.0,90.0
+Robert Brown,60.0,Male,Heart Disease,None,2019-12-01,220.0,contact@domain.com,no number,110.0,70.0
+John Doe,35.0,Female,Heart Disease,None,2020-01-15,220.0,no email,555-555-5555,130.0,85.0
+Michael Wilson,40.0,Male,Asthma,Lisinopril,2019-03-25,160.0,patient@example.com,no number,130.0,85.0
+David Lee,70.0,Female,unknow,Atorvastatin,2020-02-20,180.0,contact@domain.com,123-456-7890,140.0,90.0
+Sarah Johnson,35.0,Other,Hypertension,Metformin,2019-03-25,,no email,123-456-7890,140.0,90.0
+John Doe,25.0,Other,Diabetes,Albuterol,2019-12-01,180.0,contact@domain.com,no number,120.0,80.0
+Michael Wilson,60.0,Other,unknow,None,2018-04-05,160.0,name@hospital.org,no number,,
+Michael Wilson,35.0,Female,Asthma,None,2020-02-20,220.0,contact@domain.com,no number,140.0,90.0
+Sarah Johnson,35.0,Male,Diabetes,Atorvastatin,2020-01-15,,contact@domain.com,098-765-4321,,
+Robert Brown,25.0,Male,Heart Disease,Atorvastatin,2020-02-20,200.0,no email,098-765-4321,140.0,90.0
+Michael Wilson,40.0,Male,Hypertension,Lisinopril,2020-01-15,200.0,name@hospital.org,no number,110.0,70.0
+David Lee,40.0,Female,Heart Disease,Lisinopril,2020-02-20,180.0,patient@example.com,123-456-7890,110.0,70.0
+Michael Wilson,70.0,Female,Asthma,None,2020-01-15,220.0,contact@domain.com,098-765-4321,120.0,80.0
+Michael Wilson,40.0,Female,Diabetes,Atorvastatin,2020-01-15,200.0,patient@example.com,555-555-5555,120.0,80.0
+Michael Wilson,60.0,Female,Asthma,Metformin,2020-02-20,180.0,name@hospital.org,123-456-7890,,
+Mary Clark,35.0,Female,Diabetes,Albuterol,2020-02-20,160.0,contact@domain.com,555-555-5555,140.0,90.0
+Mary Clark,25.0,Male,unknow,Atorvastatin,2020-01-15,180.0,no email,no number,130.0,85.0
+Robert Brown,25.0,Female,Hypertension,Atorvastatin,2019-12-01,180.0,no email,123-456-7890,120.0,80.0
+John Doe,40.0,Female,unknow,Lisinopril,2020-02-20,180.0,no email,no number,130.0,85.0
+Michael Wilson,40.0,Male,unknow,Albuterol,2019-03-25,,no email,no number,130.0,85.0
+James Taylor,40.0,Female,Asthma,None,2018-04-05,180.0,no email,no number,140.0,90.0
+John Doe,35.0,Male,Hypertension,Atorvastatin,2020-01-15,180.0,no email,555-555-5555,,
+Robert Brown,40.0,Male,Diabetes,None,2020-01-15,,no email,no number,140.0,90.0
+Emily Davis,70.0,Other,Diabetes,Atorvastatin,2018-04-05,,contact@domain.com,098-765-4321,120.0,80.0
+John Doe,25.0,Other,Heart Disease,None,2019-12-01,160.0,patient@example.com,123-456-7890,130.0,85.0
+John Doe,25.0,Other,Diabetes,Albuterol,2018-04-05,220.0,patient@example.com,098-765-4321,140.0,90.0
+Laura Martinez,60.0,Other,Asthma,Lisinopril,2020-02-20,200.0,no email,555-555-5555,140.0,90.0
+Jane Smith,60.0,Female,unknow,Albuterol,2018-04-05,200.0,no email,555-555-5555,140.0,90.0
+Laura Martinez,35.0,Other,unknow,Metformin,2020-01-15,180.0,name@hospital.org,123-456-7890,120.0,80.0
+David Lee,70.0,Male,unknow,Lisinopril,2018-04-05,160.0,no email,no number,,
+Mary Clark,40.0,Female,Hypertension,Albuterol,2019-03-25,180.0,no email,no number,140.0,90.0
+Mary Clark,40.0,Other,Diabetes,Metformin,2020-02-20,200.0,no email,555-555-5555,120.0,80.0
+Jane Smith,35.0,Male,Asthma,Atorvastatin,2018-04-05,,contact@domain.com,123-456-7890,130.0,85.0
+Sarah Johnson,60.0,Female,Hypertension,Atorvastatin,2020-01-15,220.0,contact@domain.com,no number,110.0,70.0
+Sarah Johnson,40.0,Female,Heart Disease,None,2020-02-20,160.0,patient@example.com,no number,120.0,80.0
+Robert Brown,60.0,Other,Asthma,Lisinopril,2020-01-15,,patient@example.com,555-555-5555,110.0,70.0
+Jane Smith,40.0,Female,Asthma,Atorvastatin,2019-12-01,220.0,name@hospital.org,123-456-7890,140.0,90.0
+John Doe,40.0,Male,Asthma,Lisinopril,2019-03-25,160.0,name@hospital.org,123-456-7890,140.0,90.0
+Sarah Johnson,35.0,Female,unknow,Atorvastatin,2019-12-01,160.0,name@hospital.org,123-456-7890,120.0,80.0
+Michael Wilson,40.0,Male,Asthma,None,2019-03-25,200.0,name@hospital.org,555-555-5555,110.0,70.0
+James Taylor,70.0,Female,Diabetes,Albuterol,2018-04-05,,no email,no number,140.0,90.0
+John Doe,25.0,Other,Asthma,None,2020-02-20,160.0,no email,123-456-7890,130.0,85.0
+David Lee,70.0,Male,unknow,Metformin,2018-04-05,160.0,patient@example.com,no number,,
+Michael Wilson,70.0,Female,Asthma,Atorvastatin,2019-03-25,220.0,contact@domain.com,123-456-7890,,
+Michael Wilson,25.0,Female,Heart Disease,Metformin,2019-03-25,200.0,contact@domain.com,no number,140.0,90.0
+Jane Smith,70.0,Female,Heart Disease,Metformin,2019-03-25,180.0,no email,555-555-5555,110.0,70.0
+Robert Brown,40.0,Male,unknow,Lisinopril,2020-01-15,200.0,no email,123-456-7890,140.0,90.0
+David Lee,40.0,Male,Diabetes,Atorvastatin,2020-02-20,180.0,name@hospital.org,123-456-7890,110.0,70.0
+Sarah Johnson,40.0,Male,Diabetes,Metformin,2018-04-05,,name@hospital.org,no number,130.0,85.0
+Jane Smith,25.0,Other,Hypertension,Albuterol,2018-04-05,,no email,no number,110.0,70.0
+Sarah Johnson,70.0,Other,unknow,Metformin,2019-12-01,160.0,contact@domain.com,123-456-7890,140.0,90.0
+Jane Smith,25.0,Male,Asthma,Albuterol,2019-03-25,,name@hospital.org,123-456-7890,130.0,85.0
+Jane Smith,40.0,Female,unknow,Lisinopril,2019-03-25,160.0,contact@domain.com,no number,120.0,80.0
+Jane Smith,70.0,Other,Hypertension,Metformin,2019-03-25,200.0,no email,no number,,
+Robert Brown,70.0,Male,unknow,None,2018-04-05,,contact@domain.com,098-765-4321,140.0,90.0
+Jane Smith,60.0,Female,unknow,Lisinopril,2019-12-01,200.0,contact@domain.com,098-765-4321,140.0,90.0
+Emily Davis,60.0,Other,Hypertension,Albuterol,2020-01-15,200.0,contact@domain.com,123-456-7890,140.0,90.0
+James Taylor,40.0,Female,Diabetes,Lisinopril,2020-02-20,,name@hospital.org,no number,130.0,85.0
+Sarah Johnson,35.0,Female,Asthma,Metformin,2020-01-15,200.0,patient@example.com,555-555-5555,120.0,80.0
+John Doe,60.0,Female,Hypertension,Atorvastatin,2018-04-05,,no email,555-555-5555,110.0,70.0
+Laura Martinez,25.0,Female,Heart Disease,Atorvastatin,2019-03-25,,contact@domain.com,098-765-4321,120.0,80.0
+David Lee,60.0,Other,Diabetes,Albuterol,2020-02-20,,contact@domain.com,no number,130.0,85.0
+Mary Clark,40.0,Other,Heart Disease,Albuterol,2018-04-05,180.0,contact@domain.com,098-765-4321,140.0,90.0
+Robert Brown,70.0,Other,Diabetes,Atorvastatin,2018-04-05,200.0,patient@example.com,123-456-7890,,
+John Doe,40.0,Male,Asthma,Albuterol,2018-04-05,220.0,no email,no number,140.0,90.0
+Michael Wilson,70.0,Other,Asthma,Lisinopril,2020-02-20,,name@hospital.org,555-555-5555,110.0,70.0
+Emily Davis,70.0,Female,unknow,None,2020-02-20,200.0,patient@example.com,no number,,
+Mary Clark,35.0,Other,Heart Disease,None,2019-12-01,160.0,contact@domain.com,no number,140.0,90.0
+Laura Martinez,60.0,Female,Diabetes,Lisinopril,2019-12-01,,patient@example.com,123-456-7890,,
+John Doe,25.0,Male,Asthma,None,2020-01-15,,patient@example.com,098-765-4321,120.0,80.0
+Mary Clark,25.0,Female,Hypertension,Metformin,2020-02-20,220.0,patient@example.com,123-456-7890,130.0,85.0
+John Doe,40.0,Female,Asthma,Lisinopril,2020-02-20,180.0,no email,no number,140.0,90.0
+Emily Davis,70.0,Female,Hypertension,Albuterol,2020-02-20,180.0,no email,555-555-5555,110.0,70.0
+Laura Martinez,25.0,Male,Diabetes,Lisinopril,2019-12-01,,name@hospital.org,no number,120.0,80.0
+Michael Wilson,35.0,Other,Asthma,Atorvastatin,2018-04-05,200.0,no email,no number,140.0,90.0
+Jane Smith,70.0,Other,Asthma,Albuterol,2019-03-25,160.0,no email,no number,120.0,80.0
+Sarah Johnson,35.0,Male,Diabetes,Atorvastatin,2019-12-01,160.0,no email,no number,110.0,70.0
+Michael Wilson,25.0,Female,Asthma,Albuterol,2020-02-20,200.0,no email,no number,140.0,90.0
+Jane Smith,25.0,Other,Hypertension,None,2019-12-01,,patient@example.com,098-765-4321,110.0,70.0
+Robert Brown,40.0,Male,Asthma,Lisinopril,2020-01-15,160.0,patient@example.com,no number,,
+James Taylor,25.0,Other,Heart Disease,Metformin,2020-02-20,180.0,contact@domain.com,123-456-7890,110.0,70.0
+David Lee,70.0,Male,unknow,Albuterol,2020-01-15,200.0,no email,no number,,
+David Lee,70.0,Female,Hypertension,Albuterol,2020-02-20,220.0,contact@domain.com,123-456-7890,140.0,90.0
+Sarah Johnson,70.0,Other,Heart Disease,Atorvastatin,2019-12-01,,name@hospital.org,no number,,
+Laura Martinez,40.0,Male,Diabetes,None,2018-04-05,200.0,patient@example.com,no number,140.0,90.0
+Emily Davis,40.0,Other,Hypertension,Atorvastatin,2019-03-25,160.0,name@hospital.org,no number,140.0,90.0
+Laura Martinez,25.0,Other,unknow,Atorvastatin,2020-01-15,,no email,no number,130.0,85.0
+Emily Davis,40.0,Other,unknow,None,2019-12-01,180.0,patient@example.com,098-765-4321,140.0,90.0
+Laura Martinez,40.0,Other,Diabetes,Metformin,2018-04-05,,name@hospital.org,no number,,
+James Taylor,40.0,Male,Diabetes,Atorvastatin,2019-12-01,,no email,123-456-7890,130.0,85.0
+Robert Brown,25.0,Female,Hypertension,Atorvastatin,2020-01-15,180.0,name@hospital.org,123-456-7890,130.0,85.0
+Robert Brown,40.0,Male,Asthma,Albuterol,2019-03-25,180.0,no email,no number,140.0,90.0
+Jane Smith,25.0,Male,Diabetes,None,2019-12-01,,no email,098-765-4321,110.0,70.0
+Mary Clark,25.0,Male,Asthma,Lisinopril,2020-02-20,180.0,patient@example.com,098-765-4321,110.0,70.0
+Robert Brown,25.0,Female,Heart Disease,Metformin,2018-04-05,200.0,contact@domain.com,098-765-4321,130.0,85.0
+Robert Brown,60.0,Other,unknow,Metformin,2019-12-01,180.0,no email,123-456-7890,140.0,90.0
+Michael Wilson,70.0,Other,Asthma,None,2018-04-05,180.0,no email,no number,110.0,70.0
+Michael Wilson,25.0,Other,unknow,Albuterol,2020-02-20,,patient@example.com,098-765-4321,140.0,90.0
+Jane Smith,60.0,Female,Asthma,Albuterol,2019-03-25,200.0,contact@domain.com,123-456-7890,140.0,90.0
+Mary Clark,40.0,Other,Heart Disease,None,2019-03-25,220.0,no email,123-456-7890,130.0,85.0
+Sarah Johnson,40.0,Female,Diabetes,Albuterol,2020-02-20,220.0,no email,no number,130.0,85.0
+Michael Wilson,70.0,Other,Heart Disease,Metformin,2018-04-05,160.0,contact@domain.com,no number,120.0,80.0
+Sarah Johnson,40.0,Other,Diabetes,Metformin,2019-12-01,180.0,name@hospital.org,no number,110.0,70.0
+John Doe,70.0,Male,Diabetes,Lisinopril,2020-02-20,180.0,patient@example.com,098-765-4321,110.0,70.0
+Michael Wilson,40.0,Female,unknow,None,2020-01-15,200.0,contact@domain.com,098-765-4321,110.0,70.0
+James Taylor,70.0,Male,Heart Disease,Atorvastatin,2018-04-05,220.0,no email,no number,,
+Mary Clark,40.0,Male,Asthma,Atorvastatin,2019-03-25,160.0,no email,098-765-4321,140.0,90.0
+Jane Smith,40.0,Male,Heart Disease,Lisinopril,2020-02-20,200.0,no email,no number,130.0,85.0
+John Doe,40.0,Female,unknow,Lisinopril,2019-03-25,180.0,no email,123-456-7890,110.0,70.0
+Mary Clark,40.0,Female,Diabetes,Albuterol,2018-04-05,220.0,patient@example.com,098-765-4321,120.0,80.0
+James Taylor,40.0,Other,unknow,Lisinopril,2019-03-25,160.0,no email,123-456-7890,110.0,70.0
+Mary Clark,25.0,Male,Hypertension,Lisinopril,2020-02-20,,contact@domain.com,555-555-5555,140.0,90.0
+James Taylor,35.0,Other,Hypertension,Atorvastatin,2018-04-05,220.0,no email,no number,140.0,90.0
+James Taylor,60.0,Male,Asthma,Albuterol,2020-01-15,160.0,name@hospital.org,555-555-5555,130.0,85.0
+Sarah Johnson,35.0,Female,unknow,Lisinopril,2020-02-20,200.0,contact@domain.com,098-765-4321,,
+Laura Martinez,35.0,Female,Asthma,Lisinopril,2019-12-01,,patient@example.com,123-456-7890,130.0,85.0
+John Doe,70.0,Female,Asthma,Albuterol,2020-02-20,160.0,contact@domain.com,098-765-4321,110.0,70.0
+Mary Clark,25.0,Male,Hypertension,None,2018-04-05,160.0,name@hospital.org,555-555-5555,120.0,80.0
+Emily Davis,70.0,Female,Asthma,Albuterol,2020-02-20,180.0,patient@example.com,098-765-4321,130.0,85.0
+John Doe,25.0,Male,Hypertension,Atorvastatin,2020-01-15,220.0,no email,no number,,
+Laura Martinez,25.0,Other,Diabetes,None,2020-01-15,180.0,name@hospital.org,555-555-5555,130.0,85.0
+John Doe,40.0,Male,unknow,Metformin,2019-12-01,,patient@example.com,098-765-4321,140.0,90.0
+Robert Brown,40.0,Other,Asthma,Albuterol,2019-03-25,160.0,no email,123-456-7890,110.0,70.0
+Emily Davis,40.0,Male,Hypertension,Atorvastatin,2018-04-05,180.0,contact@domain.com,098-765-4321,110.0,70.0
+Laura Martinez,40.0,Other,Heart Disease,None,2018-04-05,220.0,patient@example.com,123-456-7890,110.0,70.0
+Sarah Johnson,70.0,Female,Asthma,Albuterol,2019-03-25,,contact@domain.com,no number,110.0,70.0
+Mary Clark,40.0,Other,Diabetes,Lisinopril,2020-01-15,200.0,no email,098-765-4321,110.0,70.0
+David Lee,70.0,Female,Diabetes,Albuterol,2020-01-15,180.0,patient@example.com,no number,110.0,70.0
+Laura Martinez,35.0,Female,Heart Disease,Metformin,2020-02-20,,no email,555-555-5555,120.0,80.0
+Jane Smith,35.0,Other,Hypertension,Albuterol,2019-12-01,200.0,name@hospital.org,123-456-7890,,
+Mary Clark,40.0,Male,Asthma,None,2019-12-01,180.0,patient@example.com,555-555-5555,110.0,70.0
+Laura Martinez,40.0,Male,Hypertension,None,2019-12-01,,no email,123-456-7890,,
+Robert Brown,70.0,Male,Diabetes,Albuterol,2020-02-20,,patient@example.com,no number,110.0,70.0
+David Lee,40.0,Male,Hypertension,None,2019-12-01,180.0,contact@domain.com,no number,130.0,85.0
+Robert Brown,70.0,Male,Diabetes,Lisinopril,2019-03-25,,patient@example.com,098-765-4321,110.0,70.0
+David Lee,40.0,Female,Hypertension,Albuterol,2020-02-20,160.0,no email,no number,140.0,90.0
+Jane Smith,35.0,Male,Heart Disease,Lisinopril,2019-03-25,180.0,patient@example.com,123-456-7890,120.0,80.0
+Mary Clark,25.0,Female,unknow,Lisinopril,2020-02-20,,name@hospital.org,123-456-7890,130.0,85.0
+Sarah Johnson,40.0,Female,Heart Disease,Atorvastatin,2019-12-01,200.0,patient@example.com,123-456-7890,130.0,85.0
+Robert Brown,40.0,Female,Heart Disease,Albuterol,2019-03-25,200.0,contact@domain.com,123-456-7890,140.0,90.0
+Robert Brown,70.0,Other,unknow,None,2019-03-25,160.0,patient@example.com,098-765-4321,110.0,70.0
+James Taylor,35.0,Other,unknow,Lisinopril,2019-03-25,180.0,no email,555-555-5555,120.0,80.0
+David Lee,40.0,Female,Asthma,Atorvastatin,2020-02-20,,no email,no number,130.0,85.0
+Michael Wilson,70.0,Other,Asthma,Albuterol,2018-04-05,,patient@example.com,098-765-4321,120.0,80.0
+Mary Clark,40.0,Male,Heart Disease,Albuterol,2019-12-01,200.0,patient@example.com,123-456-7890,130.0,85.0
+David Lee,40.0,Male,Heart Disease,Metformin,2019-03-25,160.0,name@hospital.org,098-765-4321,110.0,70.0
+James Taylor,60.0,Female,Diabetes,Metformin,2018-04-05,200.0,no email,no number,130.0,85.0
+John Doe,25.0,Male,Diabetes,Lisinopril,2019-12-01,200.0,no email,123-456-7890,130.0,85.0
+David Lee,60.0,Female,Asthma,Metformin,2019-12-01,160.0,contact@domain.com,no number,,
+Sarah Johnson,35.0,Female,Asthma,Lisinopril,2019-03-25,180.0,patient@example.com,123-456-7890,110.0,70.0
+Mary Clark,40.0,Male,Diabetes,None,2019-03-25,,no email,no number,140.0,90.0
+James Taylor,35.0,Other,Diabetes,Lisinopril,2020-02-20,180.0,contact@domain.com,no number,140.0,90.0
+John Doe,70.0,Male,Hypertension,Metformin,2018-04-05,220.0,no email,555-555-5555,110.0,70.0
+Emily Davis,40.0,Male,Hypertension,None,2018-04-05,220.0,no email,555-555-5555,140.0,90.0
+James Taylor,60.0,Female,Diabetes,Metformin,2019-03-25,220.0,no email,098-765-4321,110.0,70.0
+Emily Davis,60.0,Female,Hypertension,Lisinopril,2019-12-01,160.0,contact@domain.com,098-765-4321,140.0,90.0
+Mary Clark,60.0,Female,unknow,Atorvastatin,2019-03-25,200.0,no email,no number,,
+Robert Brown,35.0,Female,Asthma,Albuterol,2019-12-01,180.0,no email,123-456-7890,140.0,90.0
+James Taylor,40.0,Other,Asthma,Metformin,2019-12-01,,no email,no number,130.0,85.0
+Jane Smith,40.0,Other,Diabetes,Lisinopril,2019-03-25,220.0,no email,no number,110.0,70.0
+Emily Davis,70.0,Other,Heart Disease,None,2020-01-15,180.0,no email,123-456-7890,120.0,80.0
+Sarah Johnson,40.0,Female,Diabetes,Metformin,2018-04-05,220.0,name@hospital.org,123-456-7890,120.0,80.0
+Jane Smith,35.0,Female,Hypertension,Metformin,2019-12-01,220.0,contact@domain.com,555-555-5555,110.0,70.0
+Laura Martinez,70.0,Female,Heart Disease,Albuterol,2019-12-01,,no email,no number,,
+Laura Martinez,60.0,Other,Hypertension,Lisinopril,2020-01-15,160.0,no email,no number,140.0,90.0
+John Doe,25.0,Female,unknow,Atorvastatin,2020-02-20,200.0,contact@domain.com,098-765-4321,,
+Robert Brown,35.0,Male,Hypertension,None,2020-01-15,160.0,contact@domain.com,555-555-5555,120.0,80.0
+Mary Clark,35.0,Male,unknow,Lisinopril,2020-01-15,180.0,contact@domain.com,no number,110.0,70.0
+James Taylor,40.0,Female,unknow,None,2019-12-01,160.0,contact@domain.com,123-456-7890,110.0,70.0
+Michael Wilson,40.0,Male,Hypertension,Metformin,2018-04-05,180.0,patient@example.com,no number,,
+Sarah Johnson,35.0,Male,Hypertension,Albuterol,2020-01-15,180.0,no email,no number,,
+Emily Davis,35.0,Other,unknow,Albuterol,2020-02-20,200.0,patient@example.com,555-555-5555,140.0,90.0
+Mary Clark,60.0,Female,Heart Disease,Atorvastatin,2019-03-25,,no email,123-456-7890,130.0,85.0
+Jane Smith,60.0,Female,unknow,Albuterol,2020-01-15,200.0,no email,no number,130.0,85.0
+Laura Martinez,70.0,Other,Asthma,Metformin,2020-01-15,160.0,no email,098-765-4321,140.0,90.0
+Sarah Johnson,25.0,Male,unknow,Atorvastatin,2020-02-20,180.0,no email,555-555-5555,130.0,85.0
+Michael Wilson,40.0,Male,Heart Disease,Lisinopril,2018-04-05,220.0,contact@domain.com,no number,120.0,80.0
+James Taylor,25.0,Female,Asthma,Albuterol,2020-01-15,220.0,patient@example.com,no number,130.0,85.0
+John Doe,70.0,Male,Diabetes,Atorvastatin,2020-01-15,180.0,contact@domain.com,123-456-7890,140.0,90.0
+Michael Wilson,60.0,Other,Diabetes,Metformin,2018-04-05,200.0,no email,098-765-4321,130.0,85.0
+Sarah Johnson,40.0,Other,Heart Disease,None,2020-02-20,,patient@example.com,no number,110.0,70.0
+Michael Wilson,60.0,Female,unknow,None,2020-01-15,200.0,contact@domain.com,555-555-5555,,
+Sarah Johnson,40.0,Other,Hypertension,Metformin,2018-04-05,180.0,no email,no number,120.0,80.0
+Sarah Johnson,60.0,Other,Heart Disease,Metformin,2020-01-15,180.0,contact@domain.com,no number,110.0,70.0
+David Lee,40.0,Female,Asthma,None,2019-03-25,,no email,555-555-5555,110.0,70.0
+Emily Davis,40.0,Other,Asthma,Atorvastatin,2019-12-01,160.0,patient@example.com,555-555-5555,140.0,90.0
+Laura Martinez,40.0,Other,Diabetes,None,2019-03-25,160.0,no email,no number,,
+David Lee,70.0,Other,Asthma,Metformin,2020-01-15,,patient@example.com,123-456-7890,,
+James Taylor,40.0,Male,Heart Disease,Albuterol,2020-02-20,160.0,no email,555-555-5555,120.0,80.0
+David Lee,40.0,Female,Asthma,Lisinopril,2019-12-01,220.0,patient@example.com,no number,140.0,90.0
+Robert Brown,40.0,Female,Heart Disease,Albuterol,2019-03-25,160.0,no email,123-456-7890,120.0,80.0
+Robert Brown,25.0,Female,Hypertension,Albuterol,2018-04-05,160.0,no email,123-456-7890,130.0,85.0
+Laura Martinez,35.0,Male,Diabetes,Metformin,2020-02-20,160.0,name@hospital.org,123-456-7890,110.0,70.0
+Michael Wilson,25.0,Male,Asthma,None,2019-03-25,220.0,patient@example.com,555-555-5555,120.0,80.0
+Emily Davis,40.0,Female,Heart Disease,Atorvastatin,2018-04-05,160.0,patient@example.com,123-456-7890,110.0,70.0
+Laura Martinez,40.0,Male,unknow,Albuterol,2020-01-15,220.0,contact@domain.com,no number,140.0,90.0
+Sarah Johnson,60.0,Female,Diabetes,None,2018-04-05,,no email,123-456-7890,130.0,85.0
+Jane Smith,40.0,Male,Hypertension,Atorvastatin,2019-03-25,200.0,name@hospital.org,no number,140.0,90.0
+Emily Davis,40.0,Other,Heart Disease,Albuterol,2019-03-25,,no email,098-765-4321,130.0,85.0
+Emily Davis,40.0,Other,Hypertension,Atorvastatin,2020-01-15,200.0,contact@domain.com,no number,130.0,85.0
+Sarah Johnson,40.0,Female,Hypertension,None,2018-04-05,,name@hospital.org,555-555-5555,110.0,70.0
+Sarah Johnson,40.0,Male,Asthma,Lisinopril,2018-04-05,200.0,no email,123-456-7890,140.0,90.0
+John Doe,70.0,Male,Asthma,None,2020-01-15,200.0,name@hospital.org,123-456-7890,140.0,90.0
+Laura Martinez,40.0,Other,Heart Disease,Metformin,2018-04-05,180.0,patient@example.com,no number,120.0,80.0
+Sarah Johnson,35.0,Other,unknow,Atorvastatin,2020-01-15,200.0,patient@example.com,123-456-7890,140.0,90.0
+Robert Brown,35.0,Male,Heart Disease,Lisinopril,2020-02-20,200.0,contact@domain.com,no number,120.0,80.0
+James Taylor,40.0,Male,unknow,Atorvastatin,2019-03-25,180.0,no email,555-555-5555,,
+Jane Smith,70.0,Male,Hypertension,Atorvastatin,2020-02-20,160.0,no email,098-765-4321,,
+Laura Martinez,60.0,Male,Diabetes,Albuterol,2019-12-01,160.0,name@hospital.org,123-456-7890,,
+Mary Clark,40.0,Male,Heart Disease,Metformin,2019-12-01,180.0,contact@domain.com,098-765-4321,140.0,90.0
+Robert Brown,35.0,Male,Heart Disease,Atorvastatin,2019-12-01,220.0,no email,123-456-7890,140.0,90.0
+Michael Wilson,60.0,Female,unknow,None,2020-01-15,200.0,patient@example.com,555-555-5555,120.0,80.0
+Sarah Johnson,40.0,Male,Hypertension,None,2018-04-05,200.0,name@hospital.org,no number,130.0,85.0
+Mary Clark,60.0,Other,Hypertension,Albuterol,2020-02-20,180.0,no email,555-555-5555,120.0,80.0
+Sarah Johnson,25.0,Female,unknow,Metformin,2020-02-20,180.0,patient@example.com,098-765-4321,,
+Emily Davis,35.0,Male,Hypertension,Metformin,2020-02-20,220.0,contact@domain.com,123-456-7890,120.0,80.0
+Robert Brown,40.0,Other,Asthma,None,2020-02-20,160.0,no email,098-765-4321,130.0,85.0
+Emily Davis,40.0,Female,Diabetes,Lisinopril,2019-12-01,,patient@example.com,no number,140.0,90.0
+John Doe,70.0,Other,Heart Disease,Albuterol,2020-02-20,160.0,no email,555-555-5555,120.0,80.0
+Emily Davis,40.0,Male,Diabetes,Albuterol,2018-04-05,200.0,no email,098-765-4321,,
+John Doe,40.0,Male,Heart Disease,None,2019-12-01,180.0,contact@domain.com,098-765-4321,,
+John Doe,70.0,Male,Asthma,None,2020-02-20,220.0,patient@example.com,no number,140.0,90.0
+Mary Clark,70.0,Male,Hypertension,Lisinopril,2020-01-15,160.0,name@hospital.org,123-456-7890,120.0,80.0
+Sarah Johnson,40.0,Female,unknow,Lisinopril,2019-03-25,220.0,patient@example.com,098-765-4321,130.0,85.0
+Michael Wilson,60.0,Female,Asthma,Metformin,2019-03-25,160.0,no email,no number,140.0,90.0
+Emily Davis,60.0,Other,Diabetes,Albuterol,2019-03-25,200.0,contact@domain.com,123-456-7890,120.0,80.0
+Robert Brown,70.0,Male,unknow,Albuterol,2019-12-01,,contact@domain.com,123-456-7890,110.0,70.0
+John Doe,60.0,Other,Hypertension,None,2020-02-20,220.0,name@hospital.org,555-555-5555,,
+Sarah Johnson,25.0,Female,Asthma,Metformin,2019-12-01,220.0,contact@domain.com,no number,130.0,85.0
+Jane Smith,70.0,Male,unknow,Albuterol,2018-04-05,,contact@domain.com,123-456-7890,130.0,85.0
+Laura Martinez,70.0,Male,Asthma,Metformin,2020-01-15,220.0,contact@domain.com,555-555-5555,130.0,85.0
+Mary Clark,40.0,Female,Asthma,Metformin,2020-01-15,220.0,contact@domain.com,no number,,
+Michael Wilson,60.0,Female,Hypertension,None,2019-03-25,160.0,contact@domain.com,no number,120.0,80.0
+David Lee,70.0,Female,Heart Disease,Metformin,2019-03-25,160.0,no email,no number,140.0,90.0
+Mary Clark,25.0,Female,unknow,Lisinopril,2019-03-25,,patient@example.com,123-456-7890,120.0,80.0
+Jane Smith,40.0,Female,Hypertension,Lisinopril,2020-02-20,200.0,no email,no number,140.0,90.0
+Laura Martinez,40.0,Male,Asthma,Atorvastatin,2018-04-05,220.0,contact@domain.com,555-555-5555,130.0,85.0
+Jane Smith,70.0,Female,Hypertension,None,2018-04-05,200.0,no email,123-456-7890,120.0,80.0
+Emily Davis,25.0,Male,Heart Disease,Atorvastatin,2018-04-05,,no email,no number,130.0,85.0
+John Doe,35.0,Male,unknow,Lisinopril,2018-04-05,,no email,no number,110.0,70.0
+Michael Wilson,25.0,Female,Heart Disease,Atorvastatin,2019-03-25,160.0,contact@domain.com,no number,130.0,85.0
+James Taylor,25.0,Female,Diabetes,None,2020-01-15,220.0,no email,123-456-7890,130.0,85.0
+John Doe,40.0,Male,unknow,None,2019-03-25,180.0,contact@domain.com,555-555-5555,140.0,90.0
+James Taylor,40.0,Female,Heart Disease,Metformin,2018-04-05,,name@hospital.org,555-555-5555,110.0,70.0
+Laura Martinez,35.0,Female,Asthma,Albuterol,2019-03-25,220.0,name@hospital.org,123-456-7890,130.0,85.0
+Sarah Johnson,60.0,Female,unknow,Metformin,2018-04-05,200.0,name@hospital.org,123-456-7890,130.0,85.0
+David Lee,60.0,Other,unknow,None,2019-12-01,160.0,no email,098-765-4321,110.0,70.0
+Robert Brown,25.0,Male,Hypertension,Lisinopril,2020-01-15,200.0,name@hospital.org,no number,110.0,70.0
+John Doe,40.0,Other,Asthma,Lisinopril,2019-12-01,,no email,123-456-7890,120.0,80.0
+Michael Wilson,40.0,Female,Diabetes,Metformin,2020-02-20,,no email,123-456-7890,140.0,90.0
+Jane Smith,60.0,Other,Heart Disease,None,2019-03-25,200.0,no email,098-765-4321,110.0,70.0
+Michael Wilson,35.0,Female,Hypertension,Lisinopril,2020-02-20,,contact@domain.com,098-765-4321,110.0,70.0
+Laura Martinez,40.0,Other,Heart Disease,None,2019-03-25,220.0,patient@example.com,no number,,
+James Taylor,35.0,Female,Diabetes,Lisinopril,2019-12-01,,contact@domain.com,555-555-5555,110.0,70.0
+Jane Smith,70.0,Other,Diabetes,None,2018-04-05,160.0,contact@domain.com,no number,140.0,90.0
+Robert Brown,70.0,Other,unknow,Atorvastatin,2018-04-05,220.0,contact@domain.com,no number,130.0,85.0
+Robert Brown,40.0,Other,Diabetes,None,2019-03-25,180.0,contact@domain.com,123-456-7890,130.0,85.0
+John Doe,60.0,Male,Heart Disease,None,2018-04-05,,patient@example.com,098-765-4321,130.0,85.0
+Laura Martinez,40.0,Other,Asthma,Metformin,2019-12-01,,name@hospital.org,555-555-5555,130.0,85.0
+Sarah Johnson,40.0,Male,Asthma,Atorvastatin,2018-04-05,160.0,contact@domain.com,no number,,
+Laura Martinez,70.0,Female,unknow,Albuterol,2019-12-01,160.0,no email,555-555-5555,110.0,70.0
+James Taylor,25.0,Other,Heart Disease,Metformin,2020-02-20,200.0,no email,098-765-4321,130.0,85.0
+Michael Wilson,25.0,Female,Heart Disease,Albuterol,2019-12-01,200.0,no email,no number,120.0,80.0
+Robert Brown,60.0,Female,Diabetes,Lisinopril,2020-01-15,200.0,no email,no number,130.0,85.0
+Michael Wilson,40.0,Other,Heart Disease,Albuterol,2020-01-15,160.0,contact@domain.com,555-555-5555,110.0,70.0
+Michael Wilson,35.0,Male,Hypertension,None,2020-01-15,200.0,patient@example.com,098-765-4321,130.0,85.0
+Michael Wilson,40.0,Other,Diabetes,Albuterol,2019-03-25,200.0,name@hospital.org,123-456-7890,,
+Robert Brown,25.0,Female,Hypertension,Metformin,2019-03-25,180.0,no email,no number,140.0,90.0
+Mary Clark,25.0,Female,unknow,Metformin,2019-03-25,200.0,name@hospital.org,123-456-7890,140.0,90.0
+Emily Davis,70.0,Other,Asthma,Albuterol,2019-12-01,,patient@example.com,098-765-4321,110.0,70.0
+James Taylor,40.0,Male,unknow,Metformin,2019-03-25,160.0,no email,no number,140.0,90.0
+Mary Clark,40.0,Male,Asthma,Metformin,2020-02-20,220.0,name@hospital.org,no number,140.0,90.0
+James Taylor,25.0,Female,unknow,Albuterol,2020-01-15,180.0,patient@example.com,123-456-7890,120.0,80.0
+Jane Smith,35.0,Female,Heart Disease,Atorvastatin,2019-12-01,160.0,name@hospital.org,no number,110.0,70.0
+Laura Martinez,60.0,Male,Hypertension,Atorvastatin,2020-01-15,160.0,contact@domain.com,123-456-7890,110.0,70.0
+Laura Martinez,60.0,Other,Asthma,Lisinopril,2019-03-25,,patient@example.com,123-456-7890,140.0,90.0
+David Lee,40.0,Female,Diabetes,Metformin,2019-12-01,200.0,name@hospital.org,no number,140.0,90.0
+Laura Martinez,60.0,Male,Hypertension,Albuterol,2018-04-05,,contact@domain.com,098-765-4321,140.0,90.0
+Robert Brown,25.0,Female,Diabetes,Metformin,2020-02-20,200.0,contact@domain.com,098-765-4321,,
+Sarah Johnson,25.0,Other,Hypertension,None,2019-03-25,200.0,patient@example.com,no number,130.0,85.0
+John Doe,40.0,Male,Hypertension,Metformin,2019-03-25,160.0,no email,555-555-5555,,
+David Lee,40.0,Female,unknow,Metformin,2020-02-20,200.0,no email,555-555-5555,110.0,70.0
+John Doe,70.0,Other,Asthma,Atorvastatin,2020-02-20,180.0,patient@example.com,no number,120.0,80.0
+James Taylor,40.0,Female,Asthma,Albuterol,2018-04-05,180.0,contact@domain.com,555-555-5555,130.0,85.0
+John Doe,35.0,Other,Hypertension,Metformin,2019-03-25,180.0,contact@domain.com,123-456-7890,120.0,80.0
+John Doe,60.0,Other,Heart Disease,Atorvastatin,2019-03-25,160.0,patient@example.com,123-456-7890,110.0,70.0
+David Lee,40.0,Male,Heart Disease,Lisinopril,2020-01-15,,no email,no number,110.0,70.0
+Jane Smith,40.0,Other,Diabetes,Atorvastatin,2019-12-01,220.0,no email,no number,120.0,80.0
+Michael Wilson,70.0,Female,Diabetes,Atorvastatin,2019-12-01,200.0,name@hospital.org,no number,120.0,80.0
+Laura Martinez,40.0,Other,unknow,Atorvastatin,2020-01-15,220.0,patient@example.com,no number,120.0,80.0
+Laura Martinez,25.0,Other,Hypertension,Metformin,2019-12-01,,no email,no number,110.0,70.0
+Robert Brown,60.0,Male,Diabetes,Metformin,2020-02-20,,no email,123-456-7890,140.0,90.0
+David Lee,40.0,Other,Diabetes,Lisinopril,2019-12-01,160.0,contact@domain.com,555-555-5555,120.0,80.0
+Robert Brown,40.0,Other,Hypertension,None,2019-12-01,180.0,name@hospital.org,no number,130.0,85.0
+Sarah Johnson,60.0,Female,unknow,None,2020-01-15,180.0,patient@example.com,no number,110.0,70.0
+Sarah Johnson,25.0,Male,Diabetes,None,2018-04-05,,contact@domain.com,123-456-7890,,
+Robert Brown,35.0,Male,unknow,Lisinopril,2019-12-01,160.0,contact@domain.com,123-456-7890,,
+David Lee,70.0,Male,Asthma,None,2019-12-01,160.0,no email,123-456-7890,130.0,85.0
+Robert Brown,60.0,Other,unknow,None,2018-04-05,200.0,no email,555-555-5555,140.0,90.0
+Laura Martinez,60.0,Male,Heart Disease,Atorvastatin,2020-01-15,180.0,patient@example.com,no number,120.0,80.0
+Mary Clark,35.0,Other,Heart Disease,Metformin,2018-04-05,,patient@example.com,098-765-4321,110.0,70.0
+Emily Davis,60.0,Other,unknow,Metformin,2020-01-15,220.0,patient@example.com,098-765-4321,120.0,80.0
+John Doe,25.0,Female,Heart Disease,Atorvastatin,2020-02-20,180.0,contact@domain.com,no number,110.0,70.0
+Emily Davis,25.0,Female,Asthma,Atorvastatin,2020-01-15,200.0,no email,no number,,
+David Lee,35.0,Female,Hypertension,Atorvastatin,2020-02-20,160.0,name@hospital.org,no number,120.0,80.0
+Emily Davis,70.0,Female,Heart Disease,Metformin,2020-02-20,,contact@domain.com,no number,130.0,85.0
+Sarah Johnson,40.0,Female,Heart Disease,None,2020-01-15,180.0,name@hospital.org,555-555-5555,140.0,90.0
+James Taylor,40.0,Other,unknow,Atorvastatin,2019-03-25,220.0,no email,098-765-4321,130.0,85.0
+John Doe,40.0,Other,Asthma,Lisinopril,2020-01-15,200.0,no email,no number,140.0,90.0
+Michael Wilson,60.0,Male,Hypertension,Atorvastatin,2019-12-01,200.0,patient@example.com,098-765-4321,120.0,80.0
+David Lee,40.0,Other,unknow,Albuterol,2019-12-01,180.0,name@hospital.org,098-765-4321,120.0,80.0
+John Doe,35.0,Other,unknow,Atorvastatin,2019-03-25,220.0,contact@domain.com,123-456-7890,140.0,90.0
+Emily Davis,35.0,Female,Asthma,Metformin,2020-02-20,200.0,name@hospital.org,no number,,
+Sarah Johnson,70.0,Other,Hypertension,Atorvastatin,2019-03-25,,no email,no number,110.0,70.0
+Jane Smith,40.0,Female,Asthma,Albuterol,2019-12-01,200.0,patient@example.com,no number,130.0,85.0
+Mary Clark,25.0,Male,Hypertension,Lisinopril,2019-03-25,220.0,name@hospital.org,123-456-7890,130.0,85.0
+Michael Wilson,40.0,Male,Asthma,None,2020-01-15,160.0,no email,555-555-5555,130.0,85.0
+Mary Clark,60.0,Other,unknow,Atorvastatin,2019-03-25,160.0,contact@domain.com,555-555-5555,120.0,80.0
+John Doe,25.0,Male,unknow,Albuterol,2020-02-20,180.0,no email,no number,130.0,85.0
+Sarah Johnson,35.0,Other,Diabetes,Albuterol,2020-01-15,220.0,contact@domain.com,555-555-5555,110.0,70.0
+Sarah Johnson,40.0,Male,Heart Disease,Lisinopril,2018-04-05,200.0,patient@example.com,555-555-5555,110.0,70.0
+Emily Davis,40.0,Female,Asthma,Metformin,2019-12-01,200.0,contact@domain.com,no number,140.0,90.0
+Laura Martinez,70.0,Female,Diabetes,Atorvastatin,2019-12-01,160.0,contact@domain.com,098-765-4321,120.0,80.0
+Emily Davis,40.0,Female,Heart Disease,Albuterol,2019-03-25,160.0,contact@domain.com,555-555-5555,110.0,70.0
+Laura Martinez,70.0,Female,Asthma,Lisinopril,2020-01-15,,contact@domain.com,555-555-5555,,
+Laura Martinez,60.0,Other,Hypertension,None,2018-04-05,160.0,patient@example.com,123-456-7890,120.0,80.0
+Michael Wilson,40.0,Male,Heart Disease,Albuterol,2020-01-15,,no email,no number,120.0,80.0
+Emily Davis,40.0,Other,unknow,Lisinopril,2019-12-01,200.0,name@hospital.org,123-456-7890,110.0,70.0
+Jane Smith,40.0,Female,Diabetes,Metformin,2020-01-15,,no email,no number,,
+Robert Brown,40.0,Other,Heart Disease,Metformin,2018-04-05,,name@hospital.org,098-765-4321,140.0,90.0
+Robert Brown,40.0,Male,Heart Disease,Albuterol,2019-03-25,180.0,name@hospital.org,no number,110.0,70.0
+Emily Davis,60.0,Other,unknow,Albuterol,2020-02-20,160.0,no email,123-456-7890,,
+Emily Davis,25.0,Male,Asthma,Atorvastatin,2020-01-15,,patient@example.com,555-555-5555,120.0,80.0
+Mary Clark,60.0,Other,Hypertension,Lisinopril,2020-02-20,200.0,no email,555-555-5555,,
+Michael Wilson,70.0,Male,unknow,Albuterol,2019-12-01,220.0,patient@example.com,no number,120.0,80.0
+Emily Davis,60.0,Male,Hypertension,Atorvastatin,2019-03-25,,name@hospital.org,555-555-5555,110.0,70.0
+Mary Clark,70.0,Female,Asthma,Atorvastatin,2019-03-25,160.0,patient@example.com,123-456-7890,110.0,70.0
+Laura Martinez,40.0,Male,Heart Disease,Albuterol,2020-01-15,180.0,no email,123-456-7890,130.0,85.0
+Sarah Johnson,25.0,Female,Hypertension,Metformin,2019-03-25,200.0,no email,555-555-5555,130.0,85.0
+Sarah Johnson,40.0,Female,Diabetes,Lisinopril,2020-01-15,180.0,no email,555-555-5555,130.0,85.0
+Laura Martinez,35.0,Female,Diabetes,Lisinopril,2020-01-15,220.0,name@hospital.org,no number,110.0,70.0
+David Lee,40.0,Other,unknow,Metformin,2020-02-20,,no email,098-765-4321,140.0,90.0
+Mary Clark,70.0,Other,Asthma,Albuterol,2019-03-25,,name@hospital.org,no number,110.0,70.0
+Mary Clark,40.0,Other,unknow,Lisinopril,2020-01-15,160.0,no email,123-456-7890,,
+Laura Martinez,40.0,Other,unknow,Albuterol,2020-02-20,,name@hospital.org,no number,110.0,70.0
+Jane Smith,25.0,Male,unknow,Albuterol,2018-04-05,200.0,no email,no number,110.0,70.0
+James Taylor,40.0,Male,Diabetes,Atorvastatin,2020-02-20,220.0,no email,123-456-7890,120.0,80.0
